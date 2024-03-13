@@ -1,0 +1,524 @@
+2024-03-12 14:36:20,042 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 14:36:22,177 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 14:36:24,314 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 14:36:28,099 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 14:36:32,110 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Failed
+2024-03-12 14:36:32,295 [main] INFO sharecaar_testcases.Login_TestCase - screenshot is taken for failedtestcase
+2024-03-12 14:36:32,296 [main] INFO sharecaar_testcases.Login_TestCase - Screenshot is taken
+2024-03-12 14:38:30,719 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 14:38:32,808 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 14:38:34,941 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 14:39:21,187 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 14:39:23,340 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 14:39:25,457 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 14:39:30,374 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 14:39:34,392 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Failed
+2024-03-12 14:39:34,586 [main] INFO sharecaar_testcases.Login_TestCase - screenshot is taken for failedtestcase
+2024-03-12 14:39:34,587 [main] INFO sharecaar_testcases.Login_TestCase - Screenshot is taken
+2024-03-12 14:45:50,746 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 14:45:52,903 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 14:45:54,972 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 14:48:36,083 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 14:48:38,230 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 14:48:40,353 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 14:48:49,198 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 14:48:53,229 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Passed
+2024-03-12 14:53:41,977 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 14:53:44,100 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 14:53:46,220 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 14:56:33,348 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 14:56:35,508 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 14:56:37,622 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 14:57:51,858 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 14:57:53,991 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 14:57:56,129 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 14:58:05,106 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 14:58:13,142 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Passed
+2024-03-12 15:00:35,283 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 15:00:37,416 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 15:00:39,520 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 15:00:49,659 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 15:00:57,690 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Passed
+2024-03-12 15:01:46,049 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 15:01:48,196 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 15:01:50,275 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 15:01:59,213 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 15:02:07,238 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Passed
+2024-03-12 15:12:26,760 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 15:12:28,918 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 15:12:31,027 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 15:26:33,978 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 15:26:36,143 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 15:26:38,257 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 15:27:48,612 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 15:27:50,712 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 15:27:52,854 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 15:28:03,527 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 15:28:11,549 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Failed
+2024-03-12 15:28:11,717 [main] INFO sharecaar_testcases.Login_TestCase - screenshot is taken for failedtestcase
+2024-03-12 15:28:11,718 [main] INFO sharecaar_testcases.Login_TestCase - Screenshot is taken
+2024-03-12 15:31:08,082 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 15:31:10,191 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 15:31:12,315 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 15:31:24,023 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 15:31:32,056 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Passed
+2024-03-12 15:36:25,784 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 15:36:27,941 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 15:36:30,008 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 15:36:42,512 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 15:36:50,534 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Passed
+2024-03-12 15:39:09,174 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 15:39:11,296 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 15:39:13,420 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 15:39:28,751 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 15:39:36,770 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Passed
+2024-03-12 15:48:38,948 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 15:48:41,081 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 15:48:43,166 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 15:52:17,129 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 15:52:19,283 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 15:52:21,444 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 15:52:32,358 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 15:52:40,378 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Failed
+2024-03-12 15:52:40,580 [main] INFO sharecaar_testcases.Login_TestCase - screenshot is taken for failedtestcase
+2024-03-12 15:52:40,580 [main] INFO sharecaar_testcases.Login_TestCase - Screenshot is taken
+2024-03-12 15:54:50,962 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 15:54:53,118 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 15:54:55,200 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 15:55:12,583 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 15:55:20,605 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Failed
+2024-03-12 15:55:20,798 [main] INFO sharecaar_testcases.Login_TestCase - screenshot is taken for failedtestcase
+2024-03-12 15:55:20,798 [main] INFO sharecaar_testcases.Login_TestCase - Screenshot is taken
+2024-03-12 16:00:23,994 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 16:00:26,120 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 16:00:28,184 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 16:00:39,175 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 16:00:41,203 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Failed
+2024-03-12 16:00:41,395 [main] INFO sharecaar_testcases.Login_TestCase - screenshot is taken for failedtestcase
+2024-03-12 16:00:41,396 [main] INFO sharecaar_testcases.Login_TestCase - Screenshot is taken
+2024-03-12 16:07:49,694 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 16:07:51,818 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 16:07:53,925 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 16:08:05,223 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 16:08:11,250 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Failed
+2024-03-12 16:08:11,417 [main] INFO sharecaar_testcases.Login_TestCase - screenshot is taken for failedtestcase
+2024-03-12 16:08:11,418 [main] INFO sharecaar_testcases.Login_TestCase - Screenshot is taken
+2024-03-12 16:12:09,604 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 16:12:11,737 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 16:12:13,871 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 16:12:24,638 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 16:12:28,654 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Failed
+2024-03-12 16:12:28,839 [main] INFO sharecaar_testcases.Login_TestCase - screenshot is taken for failedtestcase
+2024-03-12 16:12:28,840 [main] INFO sharecaar_testcases.Login_TestCase - Screenshot is taken
+2024-03-12 16:13:57,985 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 16:14:00,124 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 16:14:02,306 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 16:14:44,821 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 16:14:46,960 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 16:14:49,089 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 16:14:59,812 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 16:15:01,833 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Failed
+2024-03-12 16:15:02,047 [main] INFO sharecaar_testcases.Login_TestCase - screenshot is taken for failedtestcase
+2024-03-12 16:15:02,048 [main] INFO sharecaar_testcases.Login_TestCase - Screenshot is taken
+2024-03-12 16:20:06,295 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 16:20:08,469 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 16:20:10,524 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 16:47:34,698 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 16:47:36,841 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 16:47:38,960 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 16:48:48,871 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 16:48:51,006 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 16:48:53,122 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 16:49:10,360 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 16:49:12,375 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Failed
+2024-03-12 16:49:12,566 [main] INFO sharecaar_testcases.Login_TestCase - screenshot is taken for failedtestcase
+2024-03-12 16:49:12,566 [main] INFO sharecaar_testcases.Login_TestCase - Screenshot is taken
+2024-03-12 17:01:03,674 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 17:01:05,830 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 17:01:07,969 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 17:01:19,094 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 17:01:22,963 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Failed
+2024-03-12 17:01:23,106 [main] INFO sharecaar_testcases.Login_TestCase - screenshot is taken for failedtestcase
+2024-03-12 17:01:23,106 [main] INFO sharecaar_testcases.Login_TestCase - Screenshot is taken
+2024-03-12 17:01:27,071 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 17:01:29,199 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 17:01:31,307 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 17:01:40,875 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 17:27:38,863 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 17:27:41,094 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 17:27:43,238 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 17:27:56,033 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 17:28:00,777 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Failed
+2024-03-12 17:28:00,941 [main] INFO sharecaar_testcases.Login_TestCase - screenshot is taken for failedtestcase
+2024-03-12 17:28:00,942 [main] INFO sharecaar_testcases.Login_TestCase - Screenshot is taken
+2024-03-12 17:28:06,684 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 17:28:08,829 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 17:28:10,962 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 17:28:21,107 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 17:30:05,113 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 17:30:07,322 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 17:30:09,412 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 17:30:22,326 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 17:30:28,486 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Failed
+2024-03-12 17:30:28,650 [main] INFO sharecaar_testcases.Login_TestCase - screenshot is taken for failedtestcase
+2024-03-12 17:30:28,650 [main] INFO sharecaar_testcases.Login_TestCase - Screenshot is taken
+2024-03-12 17:30:33,803 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 17:30:35,953 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 17:30:38,059 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 17:30:48,367 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 17:35:09,771 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 17:35:11,969 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 17:35:14,128 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 17:35:24,952 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 17:35:26,973 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Failed
+2024-03-12 17:35:27,155 [main] INFO sharecaar_testcases.Login_TestCase - screenshot is taken for failedtestcase
+2024-03-12 17:35:27,156 [main] INFO sharecaar_testcases.Login_TestCase - Screenshot is taken
+2024-03-12 17:36:33,097 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 17:36:35,218 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 17:36:37,344 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 17:36:47,795 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 17:36:49,812 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Failed
+2024-03-12 17:36:50,032 [main] INFO sharecaar_testcases.Login_TestCase - screenshot is taken for failedtestcase
+2024-03-12 17:36:50,033 [main] INFO sharecaar_testcases.Login_TestCase - Screenshot is taken
+2024-03-12 17:43:53,684 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 17:43:55,819 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 17:43:57,947 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 17:44:08,952 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 17:44:10,980 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Failed
+2024-03-12 17:44:11,199 [main] INFO sharecaar_testcases.Login_TestCase - screenshot is taken for failedtestcase
+2024-03-12 17:44:11,201 [main] INFO sharecaar_testcases.Login_TestCase - Screenshot is taken
+2024-03-12 17:50:32,574 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 17:50:34,795 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 17:50:36,962 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 17:59:37,628 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 17:59:39,758 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 17:59:41,879 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 17:59:53,394 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 17:59:53,415 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Failed
+2024-03-12 17:59:53,599 [main] INFO sharecaar_testcases.Login_TestCase - screenshot is taken for failedtestcase
+2024-03-12 17:59:53,599 [main] INFO sharecaar_testcases.Login_TestCase - Screenshot is taken
+2024-03-12 18:06:21,290 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 18:06:23,433 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 18:06:25,554 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 18:06:36,623 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 18:06:36,640 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Failed
+2024-03-12 18:06:36,869 [main] INFO sharecaar_testcases.Login_TestCase - screenshot is taken for failedtestcase
+2024-03-12 18:06:36,870 [main] INFO sharecaar_testcases.Login_TestCase - Screenshot is taken
+2024-03-12 18:10:02,418 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 18:10:04,548 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 18:10:06,680 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 18:10:17,305 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 18:10:17,324 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Failed
+2024-03-12 18:10:17,524 [main] INFO sharecaar_testcases.Login_TestCase - screenshot is taken for failedtestcase
+2024-03-12 18:10:17,525 [main] INFO sharecaar_testcases.Login_TestCase - Screenshot is taken
+2024-03-12 18:14:27,401 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 18:14:29,580 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 18:14:31,718 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 18:14:41,818 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 18:14:41,836 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Failed
+2024-03-12 18:14:42,016 [main] INFO sharecaar_testcases.Login_TestCase - screenshot is taken for failedtestcase
+2024-03-12 18:14:42,017 [main] INFO sharecaar_testcases.Login_TestCase - Screenshot is taken
+2024-03-12 18:18:49,676 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 18:18:51,893 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 18:18:54,049 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 18:19:05,087 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 18:19:05,100 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Failed
+2024-03-12 18:19:05,300 [main] INFO sharecaar_testcases.Login_TestCase - screenshot is taken for failedtestcase
+2024-03-12 18:19:05,301 [main] INFO sharecaar_testcases.Login_TestCase - Screenshot is taken
+2024-03-12 18:21:10,292 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 18:21:12,455 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 18:21:14,573 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 18:21:24,955 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 18:21:24,976 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Failed
+2024-03-12 18:21:25,201 [main] INFO sharecaar_testcases.Login_TestCase - screenshot is taken for failedtestcase
+2024-03-12 18:21:25,202 [main] INFO sharecaar_testcases.Login_TestCase - Screenshot is taken
+2024-03-12 18:21:29,238 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 18:21:31,404 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 18:21:33,503 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 18:21:46,736 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 18:21:46,751 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Passed
+2024-03-12 18:22:34,668 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 18:22:36,852 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 18:22:39,042 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 18:24:25,494 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 18:24:27,660 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 18:24:29,797 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 18:24:39,624 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 18:24:39,644 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Failed
+2024-03-12 18:24:39,851 [main] INFO sharecaar_testcases.Login_TestCase - screenshot is taken for failedtestcase
+2024-03-12 18:24:39,852 [main] INFO sharecaar_testcases.Login_TestCase - Screenshot is taken
+2024-03-12 18:24:43,072 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 18:24:45,196 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 18:24:47,353 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 18:24:59,191 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 18:24:59,210 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Passed
+2024-03-12 18:28:05,130 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 18:28:07,298 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 18:28:09,450 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 18:28:20,370 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 18:28:21,383 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Failed
+2024-03-12 18:28:21,575 [main] INFO sharecaar_testcases.Login_TestCase - screenshot is taken for failedtestcase
+2024-03-12 18:28:21,576 [main] INFO sharecaar_testcases.Login_TestCase - Screenshot is taken
+2024-03-12 18:28:26,055 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 18:28:28,237 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 18:29:04,748 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 18:29:06,937 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 18:29:09,097 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 18:29:20,621 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 18:29:21,641 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Failed
+2024-03-12 18:29:21,906 [main] INFO sharecaar_testcases.Login_TestCase - screenshot is taken for failedtestcase
+2024-03-12 18:29:21,907 [main] INFO sharecaar_testcases.Login_TestCase - Screenshot is taken
+2024-03-12 18:29:25,884 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-12 18:29:28,010 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-12 18:29:30,120 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-12 18:29:41,854 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-12 18:29:42,884 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Passed
+2024-03-13 09:46:16,934 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-13 09:46:19,103 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-13 09:46:21,241 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-13 09:47:01,996 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-13 09:47:04,189 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-13 09:47:06,310 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-13 09:48:36,295 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-13 09:48:38,504 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-13 09:48:40,650 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-13 09:48:53,248 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-13 09:48:54,274 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Failed
+2024-03-13 09:48:54,459 [main] INFO sharecaar_testcases.Login_TestCase - screenshot is taken for failedtestcase
+2024-03-13 09:48:54,460 [main] INFO sharecaar_testcases.Login_TestCase - Screenshot is taken
+2024-03-13 09:48:57,479 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-13 09:48:59,639 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-13 09:49:01,807 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-13 09:49:15,795 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-13 09:49:16,815 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Passed
+2024-03-13 18:08:56,298 [main] INFO sharecaar_testcases.Login_TestCase - Login is clicked
+2024-03-13 18:08:58,471 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-13 18:09:00,606 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-13 18:33:10,229 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Login is clicked
+2024-03-13 18:33:12,382 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 18:33:14,504 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 18:33:26,664 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Login button is clicked
+2024-03-13 18:33:27,684 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Testcase is Failed
+2024-03-13 18:33:27,879 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - screenshot is taken for failedtestcase
+2024-03-13 18:33:27,880 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Screenshot is taken
+2024-03-13 18:33:33,261 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Login is clicked
+2024-03-13 18:33:35,404 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 18:33:37,556 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 18:35:15,051 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Login is clicked
+2024-03-13 18:35:17,200 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 18:35:19,345 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 18:35:36,389 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Login button is clicked
+2024-03-13 18:35:37,412 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Testcase is Failed
+2024-03-13 18:35:37,645 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - screenshot is taken for failedtestcase
+2024-03-13 18:35:37,646 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Screenshot is taken
+2024-03-13 18:35:46,183 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Login is clicked
+2024-03-13 18:35:48,319 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 18:35:50,454 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 18:36:03,541 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Login button is clicked
+2024-03-13 18:36:04,567 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Testcase is Failed
+2024-03-13 18:36:04,781 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - screenshot is taken for failedtestcase
+2024-03-13 18:36:04,781 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Screenshot is taken
+2024-03-13 18:36:09,184 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Login is clicked
+2024-03-13 18:36:11,359 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 18:36:13,483 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 18:36:26,227 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Login button is clicked
+2024-03-13 18:36:27,244 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Testcase is Failed
+2024-03-13 18:36:27,455 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - screenshot is taken for failedtestcase
+2024-03-13 18:36:27,456 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Screenshot is taken
+2024-03-13 18:36:32,656 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Login is clicked
+2024-03-13 18:36:34,818 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 18:36:36,960 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 18:36:49,734 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Login button is clicked
+2024-03-13 18:36:50,754 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Testcase is Failed
+2024-03-13 18:36:50,994 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - screenshot is taken for failedtestcase
+2024-03-13 18:36:50,995 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Screenshot is taken
+2024-03-13 18:40:02,002 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Login is clicked
+2024-03-13 18:40:04,156 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 18:40:06,286 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 18:40:19,802 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Login button is clicked
+2024-03-13 18:40:20,818 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Testcase is Failed
+2024-03-13 18:40:21,010 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - screenshot is taken for failedtestcase
+2024-03-13 18:40:21,012 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Screenshot is taken
+2024-03-13 18:40:32,390 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Login is clicked
+2024-03-13 18:40:34,568 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 18:40:36,715 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 18:40:49,759 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Login button is clicked
+2024-03-13 18:40:50,771 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Testcase is Failed
+2024-03-13 18:40:50,963 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - screenshot is taken for failedtestcase
+2024-03-13 18:40:50,964 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Screenshot is taken
+2024-03-13 18:44:40,027 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Login is clicked
+2024-03-13 18:44:42,198 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 18:44:44,304 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 18:45:07,134 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Login button is clicked
+2024-03-13 18:45:08,153 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Testcase is Failed
+2024-03-13 18:45:08,354 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - screenshot is taken for failedtestcase
+2024-03-13 18:45:08,355 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Screenshot is taken
+2024-03-13 18:47:46,960 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 18:47:49,112 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 18:48:03,658 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Login button is clicked
+2024-03-13 18:48:04,686 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Testcase is Failed
+2024-03-13 18:48:04,895 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - screenshot is taken for failedtestcase
+2024-03-13 18:48:04,896 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Screenshot is taken
+2024-03-13 18:48:08,652 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 18:48:10,746 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 18:48:23,959 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 18:48:26,091 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 18:48:36,196 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Login button is clicked
+2024-03-13 18:48:37,214 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Testcase is Failed
+2024-03-13 18:48:37,404 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - screenshot is taken for failedtestcase
+2024-03-13 18:48:37,405 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Screenshot is taken
+2024-03-13 18:48:41,919 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 18:48:43,997 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 18:49:47,357 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 18:49:49,507 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 18:50:02,830 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 18:50:04,966 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 18:51:16,955 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 18:51:19,111 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 18:51:32,430 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 18:51:34,565 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 18:54:06,209 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 18:54:08,322 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 18:54:15,712 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Login button is clicked
+2024-03-13 18:54:16,735 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Testcase is Failed
+2024-03-13 18:54:16,920 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - screenshot is taken for failedtestcase
+2024-03-13 18:54:16,921 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Screenshot is taken
+2024-03-13 18:54:26,735 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 18:54:28,881 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 18:54:34,125 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 18:54:36,258 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 18:54:38,345 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Login button is clicked
+2024-03-13 18:54:39,371 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Testcase is Failed
+2024-03-13 18:54:39,576 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - screenshot is taken for failedtestcase
+2024-03-13 18:54:39,577 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Screenshot is taken
+2024-03-13 18:54:44,967 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 18:54:47,087 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 18:54:55,590 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Login button is clicked
+2024-03-13 18:54:56,610 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Testcase is Passed
+2024-03-13 18:55:49,669 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 18:55:51,799 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 18:55:56,095 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 18:55:58,215 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 18:56:02,527 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 18:56:04,662 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 18:56:09,006 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 18:56:11,155 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 18:56:12,235 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Login button is clicked
+2024-03-13 18:56:13,249 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Testcase is Failed
+2024-03-13 18:56:13,455 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - screenshot is taken for failedtestcase
+2024-03-13 18:56:13,455 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Screenshot is taken
+2024-03-13 18:56:50,370 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 18:56:52,507 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 18:56:55,863 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 18:56:57,948 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 18:56:58,057 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Login button is clicked
+2024-03-13 18:56:59,083 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Testcase is Failed
+2024-03-13 18:56:59,286 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - screenshot is taken for failedtestcase
+2024-03-13 18:56:59,286 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Screenshot is taken
+2024-03-13 18:57:06,635 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 18:57:08,768 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 18:57:14,652 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Login button is clicked
+2024-03-13 18:57:15,674 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Testcase is Failed
+2024-03-13 18:57:15,908 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - screenshot is taken for failedtestcase
+2024-03-13 18:57:15,908 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Screenshot is taken
+2024-03-13 18:57:20,129 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 18:57:22,210 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 18:57:28,428 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Login button is clicked
+2024-03-13 18:57:49,639 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 18:57:51,793 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 18:57:57,602 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Login button is clicked
+2024-03-13 18:57:58,625 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Testcase is Failed
+2024-03-13 18:57:58,804 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - screenshot is taken for failedtestcase
+2024-03-13 18:57:58,805 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Screenshot is taken
+2024-03-13 18:58:04,104 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 18:58:06,220 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 18:58:11,726 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Login button is clicked
+2024-03-13 18:58:12,750 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Testcase is Failed
+2024-03-13 18:58:12,972 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - screenshot is taken for failedtestcase
+2024-03-13 18:58:12,973 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Screenshot is taken
+2024-03-13 18:58:16,002 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 18:58:18,128 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 18:58:23,965 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Login button is clicked
+2024-03-13 18:58:24,991 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Testcase is Failed
+2024-03-13 18:58:25,165 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - screenshot is taken for failedtestcase
+2024-03-13 18:58:25,166 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Screenshot is taken
+2024-03-13 18:58:28,271 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 18:58:30,418 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 18:59:11,375 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 18:59:13,510 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 18:59:20,390 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Login button is clicked
+2024-03-13 18:59:21,417 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Testcase is Failed
+2024-03-13 18:59:21,635 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - screenshot is taken for failedtestcase
+2024-03-13 18:59:21,635 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Screenshot is taken
+2024-03-13 18:59:26,231 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 18:59:28,343 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 18:59:36,858 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Login button is clicked
+2024-03-13 18:59:37,874 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Testcase is Failed
+2024-03-13 18:59:38,089 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - screenshot is taken for failedtestcase
+2024-03-13 18:59:38,090 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Screenshot is taken
+2024-03-13 18:59:43,162 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 18:59:45,300 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 18:59:52,013 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Login button is clicked
+2024-03-13 18:59:53,040 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Testcase is Failed
+2024-03-13 18:59:53,230 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - screenshot is taken for failedtestcase
+2024-03-13 18:59:53,231 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Screenshot is taken
+2024-03-13 18:59:57,321 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 18:59:59,475 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 19:00:47,385 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 19:00:49,531 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 19:00:55,185 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Login button is clicked
+2024-03-13 19:00:56,199 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Testcase is Failed
+2024-03-13 19:00:56,397 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - screenshot is taken for failedtestcase
+2024-03-13 19:00:56,398 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Screenshot is taken
+2024-03-13 19:01:01,322 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 19:01:03,430 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 19:01:10,219 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Login button is clicked
+2024-03-13 19:01:11,245 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Testcase is Failed
+2024-03-13 19:01:11,421 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - screenshot is taken for failedtestcase
+2024-03-13 19:01:11,422 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Screenshot is taken
+2024-03-13 19:01:14,535 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 19:01:16,634 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 19:01:22,971 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 19:01:25,104 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 19:03:42,250 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 19:03:44,380 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 19:03:51,427 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Login button is clicked
+2024-03-13 19:03:52,451 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Testcase is Failed
+2024-03-13 19:03:52,644 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - screenshot is taken for failedtestcase
+2024-03-13 19:03:52,645 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Screenshot is taken
+2024-03-13 19:03:57,116 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 19:03:59,229 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 19:04:04,915 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Login button is clicked
+2024-03-13 19:04:05,927 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Testcase is Failed
+2024-03-13 19:04:06,115 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - screenshot is taken for failedtestcase
+2024-03-13 19:04:06,115 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Screenshot is taken
+2024-03-13 19:04:10,480 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Email is entered
+2024-03-13 19:04:12,598 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Password is entered
+2024-03-13 19:04:18,013 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Login button is clicked
+2024-03-13 19:04:19,037 [main] INFO sharecaar_testcases.LoginDataDrivenTesting - Testcase is Passed
+2024-03-13 19:08:36,182 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-13 19:08:38,341 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-13 19:08:52,516 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-13 19:08:53,540 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Failed
+2024-03-13 19:08:53,808 [main] INFO sharecaar_testcases.Login_TestCase - screenshot is taken for failedtestcase
+2024-03-13 19:08:53,808 [main] INFO sharecaar_testcases.Login_TestCase - Screenshot is taken
+2024-03-13 19:08:57,832 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-13 19:08:59,940 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-13 19:09:12,252 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-13 19:09:14,377 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-13 19:09:48,433 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-13 19:09:50,570 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-13 19:10:06,928 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-13 19:10:07,946 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Failed
+2024-03-13 19:10:08,148 [main] INFO sharecaar_testcases.Login_TestCase - screenshot is taken for failedtestcase
+2024-03-13 19:10:08,149 [main] INFO sharecaar_testcases.Login_TestCase - Screenshot is taken
+2024-03-13 19:10:21,480 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-13 19:10:23,622 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-13 19:10:35,512 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-13 19:10:36,540 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Failed
+2024-03-13 19:10:36,731 [main] INFO sharecaar_testcases.Login_TestCase - screenshot is taken for failedtestcase
+2024-03-13 19:10:36,732 [main] INFO sharecaar_testcases.Login_TestCase - Screenshot is taken
+2024-03-13 19:10:39,718 [main] INFO sharecaar_testcases.Login_TestCase - Email is entered
+2024-03-13 19:10:41,875 [main] INFO sharecaar_testcases.Login_TestCase - Password is entered
+2024-03-13 19:10:54,790 [main] INFO sharecaar_testcases.Login_TestCase - Login button is clicked
+2024-03-13 19:10:55,812 [main] INFO sharecaar_testcases.Login_TestCase - Testcase is Passed
