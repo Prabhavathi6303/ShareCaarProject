@@ -12,7 +12,7 @@ import sharecaar_pageobjects.LoginPage;
 
 public class Login_TestCase extends Login_BaseClass{
 	@Test(dataProvider="dp")
-	public void LoginTest(String Email, String Password) throws IOException, InterruptedException
+	public void LoginTest1(String Email, String Password) throws IOException, InterruptedException
 	{
 		LoginPage L=new LoginPage(driver);
 		Thread.sleep(2000);
@@ -27,16 +27,18 @@ public class Login_TestCase extends Login_BaseClass{
 		Thread.sleep(1000);
 		String exp_result="Profile - Sharecaar";
 		String act_result=driver.getTitle();
+		
 		if(act_result.equals(exp_result)) 
 		{
 			Assert.assertTrue(true);
 			Log.info("Testcase is Passed");
+			
 
 		}
 		else 
 		{
 			Log.info("Testcase is Failed");
-			CaptureScreen(driver,"LoginTest");
+			CaptureScreen(driver,"LoginTest1");
 			Log.info("Screenshot is taken");
 			driver.navigate().refresh();
 			Assert.assertTrue(false);

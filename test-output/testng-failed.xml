@@ -7,13 +7,13 @@
   </listeners>
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="sharecaar_testcases.Login_TestCase">
+      <class name="sharecaar_testcases.Signup_TestCase">
         <methods>
           <include name="OpenApplication"/>
           <include name="CloseApplication"/>
-          <include name="LoginTest" invocation-numbers="0 1"/>
+          <include name="SignupTest2"/>
         </methods>
-      </class> <!-- sharecaar_testcases.Login_TestCase -->
+      </class> <!-- sharecaar_testcases.Signup_TestCase -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

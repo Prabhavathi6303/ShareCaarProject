@@ -522,3 +522,702 @@
 2024-03-13 19:10:41,875 - sharecaar_testcases.Login_TestCase -INFO - Password is entered
 2024-03-13 19:10:54,790 - sharecaar_testcases.Login_TestCase -INFO - Login button is clicked
 2024-03-13 19:10:55,812 - sharecaar_testcases.Login_TestCase -INFO - Testcase is Passed
+2024-03-19 11:47:53,178 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Email is entered
+2024-03-19 11:47:55,242 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Password is entered
+2024-03-19 11:48:00,442 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Email is entered
+2024-03-19 11:48:02,519 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Password is entered
+2024-03-19 11:48:07,731 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Email is entered
+2024-03-19 11:48:09,801 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Password is entered
+2024-03-19 11:49:07,833 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Email is entered
+2024-03-19 11:49:09,904 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Password is entered
+2024-03-19 11:49:15,098 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Email is entered
+2024-03-19 11:49:17,150 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Password is entered
+2024-03-19 11:49:19,193 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Login button is clicked
+2024-03-19 11:49:20,211 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Testcase is Failed
+2024-03-19 11:49:20,409 - sharecaar_testcases.LoginDataDrivenTesting -INFO - screenshot is taken for failedtestcase
+2024-03-19 11:49:20,409 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Screenshot is taken
+2024-03-19 11:49:24,463 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Email is entered
+2024-03-19 11:49:26,539 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Password is entered
+2024-03-19 11:49:32,301 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Login button is clicked
+2024-03-19 11:49:33,323 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Testcase is Passed
+2024-03-19 14:45:12,054 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 14:45:12,111 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 14:45:12,169 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 14:45:12,231 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 14:45:12,827 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 14:45:12,900 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 14:45:12,962 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 14:45:12,970 - sharecaar_testcases.Signup_TestCase -INFO - Testcase is Failed
+2024-03-19 14:45:13,131 - sharecaar_testcases.Signup_TestCase -INFO - screenshot is taken for failedtestcase
+2024-03-19 14:45:13,132 - sharecaar_testcases.Signup_TestCase -INFO - Screenshot is taken
+2024-03-19 14:45:14,217 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 14:45:14,279 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 14:45:14,332 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 14:45:14,395 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 14:45:15,692 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 14:45:15,763 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 14:45:15,817 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 14:45:15,831 - sharecaar_testcases.Signup_TestCase -INFO - Testcase is Failed
+2024-03-19 14:45:15,997 - sharecaar_testcases.Signup_TestCase -INFO - screenshot is taken for failedtestcase
+2024-03-19 14:45:15,997 - sharecaar_testcases.Signup_TestCase -INFO - Screenshot is taken
+2024-03-19 14:45:17,628 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 14:45:17,732 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 14:45:17,795 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 14:45:18,540 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 14:45:19,174 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 14:45:19,219 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 14:51:54,131 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 14:51:55,199 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 14:51:56,273 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 14:51:57,331 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 14:52:00,811 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 14:52:01,865 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 14:52:02,925 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 14:52:09,111 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 14:52:10,176 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 14:52:11,248 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 14:52:12,303 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 14:52:13,366 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 14:52:14,443 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 14:52:15,480 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 14:55:02,531 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 14:55:03,598 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 14:55:04,663 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 14:55:05,736 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 14:55:08,564 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 14:55:09,618 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 14:55:10,671 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 14:55:22,872 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 14:55:23,929 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 14:55:24,993 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 14:55:29,428 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 14:55:30,477 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 14:55:31,545 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 14:55:32,603 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 14:55:44,809 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 14:55:45,882 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 14:55:46,977 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 14:55:48,048 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 14:55:49,116 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 14:55:50,189 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 14:55:51,225 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 14:57:25,816 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 14:57:26,881 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 14:57:27,953 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 14:57:29,018 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 14:57:33,197 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 14:57:34,265 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 14:57:35,333 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 14:57:45,377 - sharecaar_testcases.Signup_TestCase -INFO - Signup button is clicked
+2024-03-19 14:57:45,383 - sharecaar_testcases.Signup_TestCase -INFO - Testcase is Failed
+2024-03-19 14:57:45,529 - sharecaar_testcases.Signup_TestCase -INFO - screenshot is taken for failedtestcase
+2024-03-19 14:57:45,530 - sharecaar_testcases.Signup_TestCase -INFO - Screenshot is taken
+2024-03-19 14:58:45,877 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 14:58:46,944 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 14:58:48,013 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 14:58:49,070 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 14:58:52,973 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 14:58:54,036 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 14:58:55,106 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 14:59:05,161 - sharecaar_testcases.Signup_TestCase -INFO - Signup button is clicked
+2024-03-19 14:59:05,167 - sharecaar_testcases.Signup_TestCase -INFO - Testcase is Failed
+2024-03-19 14:59:05,308 - sharecaar_testcases.Signup_TestCase -INFO - screenshot is taken for failedtestcase
+2024-03-19 14:59:05,309 - sharecaar_testcases.Signup_TestCase -INFO - Screenshot is taken
+2024-03-19 15:01:23,138 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 15:01:24,206 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 15:01:25,292 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 15:01:26,366 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 15:01:29,329 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 15:01:30,388 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 15:01:31,449 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 15:01:43,624 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 15:01:44,674 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 15:01:45,740 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 15:01:46,801 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 15:01:47,866 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 15:01:48,934 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 15:01:50,733 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 15:02:12,516 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 15:02:13,585 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 15:02:14,667 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 15:02:15,750 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 15:02:18,562 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 15:02:19,628 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 15:02:20,666 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 15:02:32,843 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 15:02:33,900 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 15:02:34,963 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 15:02:36,026 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 15:02:37,080 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 15:02:38,146 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 15:02:39,191 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 15:02:51,327 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 15:02:52,393 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 15:02:53,476 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 15:02:54,539 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 15:02:55,601 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 15:02:56,667 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 15:05:28,044 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 15:05:29,104 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 15:05:30,176 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 15:05:31,243 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 15:05:34,349 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 15:05:35,414 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 15:05:36,474 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 15:05:52,241 - sharecaar_testcases.Signup_TestCase -INFO - Signup button is clicked
+2024-03-19 15:05:52,247 - sharecaar_testcases.Signup_TestCase -INFO - Testcase is Failed
+2024-03-19 15:05:52,380 - sharecaar_testcases.Signup_TestCase -INFO - screenshot is taken for failedtestcase
+2024-03-19 15:05:52,380 - sharecaar_testcases.Signup_TestCase -INFO - Screenshot is taken
+2024-03-19 15:05:55,844 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 15:05:56,904 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 15:05:57,975 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 15:05:59,044 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 15:06:12,372 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 15:06:13,422 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 15:06:14,471 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 15:06:31,659 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 15:06:32,720 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 15:06:33,816 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 15:06:34,890 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 15:06:35,941 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 15:06:37,010 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 15:07:23,699 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 15:07:24,756 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 15:07:25,823 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 15:07:26,894 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 15:07:28,928 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 15:07:30,006 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 15:07:31,058 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 15:07:51,116 - sharecaar_testcases.Signup_TestCase -INFO - Signup button is clicked
+2024-03-19 15:07:51,121 - sharecaar_testcases.Signup_TestCase -INFO - Testcase is Failed
+2024-03-19 15:07:51,251 - sharecaar_testcases.Signup_TestCase -INFO - screenshot is taken for failedtestcase
+2024-03-19 15:07:51,252 - sharecaar_testcases.Signup_TestCase -INFO - Screenshot is taken
+2024-03-19 15:07:54,247 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 15:07:55,295 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 15:07:56,355 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 15:07:57,423 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 15:07:59,845 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 15:08:00,899 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 15:08:01,945 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 15:08:21,992 - sharecaar_testcases.Signup_TestCase -INFO - Signup button is clicked
+2024-03-19 15:08:21,998 - sharecaar_testcases.Signup_TestCase -INFO - Testcase is Failed
+2024-03-19 15:08:22,143 - sharecaar_testcases.Signup_TestCase -INFO - screenshot is taken for failedtestcase
+2024-03-19 15:08:22,143 - sharecaar_testcases.Signup_TestCase -INFO - Screenshot is taken
+2024-03-19 15:08:25,107 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 15:08:26,158 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 15:08:27,218 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 15:08:29,636 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 15:08:31,460 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 15:08:32,517 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 15:08:33,570 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 15:08:53,632 - sharecaar_testcases.Signup_TestCase -INFO - Signup button is clicked
+2024-03-19 15:08:53,637 - sharecaar_testcases.Signup_TestCase -INFO - Testcase is Failed
+2024-03-19 15:08:53,779 - sharecaar_testcases.Signup_TestCase -INFO - screenshot is taken for failedtestcase
+2024-03-19 15:08:53,780 - sharecaar_testcases.Signup_TestCase -INFO - Screenshot is taken
+2024-03-19 15:10:11,182 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 15:10:12,247 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 15:10:13,326 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 15:10:14,402 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 15:10:17,173 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 15:10:18,226 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 15:10:19,280 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 15:10:39,361 - sharecaar_testcases.Signup_TestCase -INFO - Signup button is clicked
+2024-03-19 15:10:39,367 - sharecaar_testcases.Signup_TestCase -INFO - Testcase is Failed
+2024-03-19 15:10:39,507 - sharecaar_testcases.Signup_TestCase -INFO - screenshot is taken for failedtestcase
+2024-03-19 15:10:39,509 - sharecaar_testcases.Signup_TestCase -INFO - Screenshot is taken
+2024-03-19 15:10:42,450 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 15:10:43,510 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 15:10:44,580 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 15:10:45,649 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 15:10:47,990 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 15:10:49,038 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 15:10:50,079 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 15:11:12,266 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 15:11:13,326 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 15:11:14,415 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 15:11:15,489 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 15:11:16,545 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 15:11:17,612 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 15:11:18,660 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 15:12:14,488 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 15:12:15,565 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 15:12:16,635 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 15:12:17,704 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 15:12:20,004 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 15:12:21,075 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 15:12:22,121 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 15:12:44,317 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 15:12:45,374 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 15:12:46,446 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 15:12:47,501 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 15:12:48,561 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 15:12:49,632 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 15:12:51,233 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 15:13:19,469 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 15:13:20,540 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 15:13:21,612 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 15:13:22,674 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 15:13:25,055 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 15:13:26,121 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 15:13:27,168 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 15:13:47,223 - sharecaar_testcases.Signup_TestCase -INFO - Signup button is clicked
+2024-03-19 15:13:47,231 - sharecaar_testcases.Signup_TestCase -INFO - Testcase is Failed
+2024-03-19 15:13:47,366 - sharecaar_testcases.Signup_TestCase -INFO - screenshot is taken for failedtestcase
+2024-03-19 15:13:47,366 - sharecaar_testcases.Signup_TestCase -INFO - Screenshot is taken
+2024-03-19 15:13:51,611 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 15:13:52,663 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 15:13:53,717 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 15:13:54,784 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 15:13:57,340 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 15:13:58,415 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 15:13:59,468 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 15:14:19,511 - sharecaar_testcases.Signup_TestCase -INFO - Signup button is clicked
+2024-03-19 15:14:19,520 - sharecaar_testcases.Signup_TestCase -INFO - Testcase is Failed
+2024-03-19 15:14:19,648 - sharecaar_testcases.Signup_TestCase -INFO - screenshot is taken for failedtestcase
+2024-03-19 15:14:19,649 - sharecaar_testcases.Signup_TestCase -INFO - Screenshot is taken
+2024-03-19 15:14:27,430 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 15:14:28,490 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 15:14:29,567 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 15:14:31,248 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 15:14:32,904 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 15:14:33,960 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 15:14:35,011 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 15:15:25,936 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 15:15:26,993 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 15:15:28,068 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 15:15:29,140 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 15:15:30,943 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 15:15:31,994 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 15:15:33,042 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 15:15:55,217 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 15:15:56,277 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 15:15:57,336 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 15:15:58,391 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 15:16:55,016 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 15:16:56,087 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 15:16:57,150 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 15:16:58,223 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 15:17:00,337 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 15:17:01,388 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 15:17:02,446 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 15:17:19,641 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 15:17:20,704 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 15:17:21,773 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 15:17:22,832 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 15:17:23,884 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 15:17:53,714 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 15:17:54,777 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 15:17:55,842 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 15:17:56,911 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 15:17:59,869 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 15:18:00,917 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 15:18:01,967 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 15:18:17,019 - sharecaar_testcases.Signup_TestCase -INFO - Signup button is clicked
+2024-03-19 15:18:17,025 - sharecaar_testcases.Signup_TestCase -INFO - Testcase is Failed
+2024-03-19 15:18:17,162 - sharecaar_testcases.Signup_TestCase -INFO - screenshot is taken for failedtestcase
+2024-03-19 15:18:17,162 - sharecaar_testcases.Signup_TestCase -INFO - Screenshot is taken
+2024-03-19 15:18:20,997 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 15:18:22,052 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 15:18:23,111 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 15:18:24,177 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 15:18:26,288 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 15:18:27,337 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 15:18:28,385 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 15:18:45,540 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 15:18:46,615 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 15:18:47,700 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 15:18:48,762 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 15:18:49,825 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 15:18:50,890 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 15:18:51,938 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 15:19:27,418 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 15:19:28,486 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 15:19:29,562 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 15:19:30,627 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 15:19:34,838 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 15:19:35,898 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 15:19:36,944 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 15:19:54,138 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 15:19:55,201 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 15:19:56,263 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 15:19:57,322 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 15:19:58,391 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 15:19:59,466 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 15:21:56,614 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 15:21:57,679 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 15:21:58,740 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 15:21:59,824 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 15:22:06,363 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 15:22:07,429 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 15:22:08,472 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 15:22:26,550 - sharecaar_testcases.Signup_TestCase -INFO - Signup button is clicked
+2024-03-19 15:22:26,557 - sharecaar_testcases.Signup_TestCase -INFO - Testcase is Failed
+2024-03-19 15:22:26,701 - sharecaar_testcases.Signup_TestCase -INFO - screenshot is taken for failedtestcase
+2024-03-19 15:22:26,703 - sharecaar_testcases.Signup_TestCase -INFO - Screenshot is taken
+2024-03-19 15:22:31,246 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 15:22:32,302 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 15:22:33,373 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 15:22:34,433 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 15:22:37,039 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 15:22:38,096 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 15:22:39,138 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 15:22:57,179 - sharecaar_testcases.Signup_TestCase -INFO - Signup button is clicked
+2024-03-19 15:22:57,186 - sharecaar_testcases.Signup_TestCase -INFO - Testcase is Failed
+2024-03-19 15:22:57,337 - sharecaar_testcases.Signup_TestCase -INFO - screenshot is taken for failedtestcase
+2024-03-19 15:22:57,338 - sharecaar_testcases.Signup_TestCase -INFO - Screenshot is taken
+2024-03-19 15:23:02,895 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 15:23:03,962 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 15:23:05,042 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 15:23:06,725 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 15:23:08,405 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 15:23:09,459 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 15:23:10,505 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 15:23:34,195 - sharecaar_testcases.Signup_TestCase -INFO - Signup button is clicked
+2024-03-19 15:23:34,203 - sharecaar_testcases.Signup_TestCase -INFO - Testcase is Passed
+2024-03-19 18:26:58,462 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 18:26:59,532 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 18:27:00,621 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 18:27:01,698 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 18:27:03,438 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 18:27:04,495 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 18:27:05,544 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 18:27:23,615 - sharecaar_testcases.Signup_TestCase -INFO - Signup button is clicked
+2024-03-19 18:27:23,621 - sharecaar_testcases.Signup_TestCase -INFO - Testcase is Failed
+2024-03-19 18:27:23,770 - sharecaar_testcases.Signup_TestCase -INFO - screenshot is taken for failedtestcase
+2024-03-19 18:27:23,771 - sharecaar_testcases.Signup_TestCase -INFO - Screenshot is taken
+2024-03-19 18:27:26,985 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 18:27:28,058 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 18:27:29,127 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 18:27:30,197 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 18:27:32,544 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 18:27:33,614 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 18:27:34,670 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 18:27:54,863 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 18:27:55,936 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 18:27:57,016 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 18:27:58,071 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 18:27:59,132 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 18:28:00,187 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 18:28:01,230 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-19 18:30:03,739 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 18:30:04,793 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 18:30:05,854 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 18:30:06,922 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 18:30:10,998 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 18:30:12,070 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 18:30:15,236 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-19 18:30:16,287 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-19 18:30:17,357 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-19 18:30:18,416 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-19 18:30:19,471 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-19 18:30:20,550 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-19 18:30:21,599 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-20 13:00:08,742 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Email is entered
+2024-03-20 13:00:10,810 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Password is entered
+2024-03-20 13:00:19,559 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Login button is clicked
+2024-03-20 13:00:20,584 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Testcase is Failed
+2024-03-20 13:00:20,771 - sharecaar_testcases.LoginDataDrivenTesting -INFO - screenshot is taken for failedtestcase
+2024-03-20 13:00:20,772 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Screenshot is taken
+2024-03-20 13:00:24,133 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Email is entered
+2024-03-20 13:00:26,192 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Password is entered
+2024-03-20 13:00:32,822 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Login button is clicked
+2024-03-20 13:00:33,844 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Testcase is Failed
+2024-03-20 13:00:34,009 - sharecaar_testcases.LoginDataDrivenTesting -INFO - screenshot is taken for failedtestcase
+2024-03-20 13:00:34,010 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Screenshot is taken
+2024-03-20 13:00:37,266 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Email is entered
+2024-03-20 13:00:39,338 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Password is entered
+2024-03-20 13:02:46,357 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Email is entered
+2024-03-20 13:02:48,421 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Password is entered
+2024-03-20 13:02:56,285 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Login button is clicked
+2024-03-20 13:02:57,311 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Testcase is Failed
+2024-03-20 13:02:57,494 - sharecaar_testcases.LoginDataDrivenTesting -INFO - screenshot is taken for failedtestcase
+2024-03-20 13:02:57,495 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Screenshot is taken
+2024-03-20 13:03:00,769 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Email is entered
+2024-03-20 13:03:02,814 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Password is entered
+2024-03-20 13:03:09,983 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Login button is clicked
+2024-03-20 13:03:11,000 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Testcase is Failed
+2024-03-20 13:03:11,166 - sharecaar_testcases.LoginDataDrivenTesting -INFO - screenshot is taken for failedtestcase
+2024-03-20 13:03:11,166 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Screenshot is taken
+2024-03-20 13:03:14,797 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Email is entered
+2024-03-20 13:03:16,865 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Password is entered
+2024-03-20 13:03:26,072 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Login button is clicked
+2024-03-20 13:03:27,089 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Testcase is Passed
+2024-03-20 13:05:49,305 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Email is entered
+2024-03-20 13:05:51,371 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Password is entered
+2024-03-20 13:06:00,152 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Login button is clicked
+2024-03-20 13:06:01,168 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Testcase is Failed
+2024-03-20 13:06:01,340 - sharecaar_testcases.LoginDataDrivenTesting -INFO - screenshot is taken for failedtestcase
+2024-03-20 13:06:01,341 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Screenshot is taken
+2024-03-20 13:06:05,353 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Email is entered
+2024-03-20 13:06:07,403 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Password is entered
+2024-03-20 13:06:14,702 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Login button is clicked
+2024-03-20 13:06:15,717 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Testcase is Failed
+2024-03-20 13:06:15,898 - sharecaar_testcases.LoginDataDrivenTesting -INFO - screenshot is taken for failedtestcase
+2024-03-20 13:06:15,899 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Screenshot is taken
+2024-03-20 13:06:19,568 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Email is entered
+2024-03-20 13:06:21,628 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Password is entered
+2024-03-20 13:06:31,280 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Login button is clicked
+2024-03-20 13:06:32,301 - sharecaar_testcases.LoginDataDrivenTesting -INFO - Testcase is Passed
+2024-03-20 13:29:52,504 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-20 13:29:53,573 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-20 13:29:54,646 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-20 13:29:55,713 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-20 13:29:58,653 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-20 13:29:59,709 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-20 13:30:00,752 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-20 13:30:18,822 - sharecaar_testcases.Signup_TestCase -INFO - Signup button is clicked
+2024-03-20 13:30:18,828 - sharecaar_testcases.Signup_TestCase -INFO - Testcase is Failed
+2024-03-20 13:30:18,970 - sharecaar_testcases.Signup_TestCase -INFO - screenshot is taken for failedtestcase
+2024-03-20 13:30:18,971 - sharecaar_testcases.Signup_TestCase -INFO - Screenshot is taken
+2024-03-20 13:30:23,239 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-20 13:30:24,295 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-20 13:30:25,358 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-20 13:30:26,424 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-20 13:30:29,167 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-20 13:30:30,220 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-20 13:30:31,274 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-20 13:30:49,321 - sharecaar_testcases.Signup_TestCase -INFO - Signup button is clicked
+2024-03-20 13:30:49,329 - sharecaar_testcases.Signup_TestCase -INFO - Testcase is Failed
+2024-03-20 13:30:49,464 - sharecaar_testcases.Signup_TestCase -INFO - screenshot is taken for failedtestcase
+2024-03-20 13:30:49,466 - sharecaar_testcases.Signup_TestCase -INFO - Screenshot is taken
+2024-03-20 13:30:54,849 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-20 13:30:55,896 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-20 13:30:56,959 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-20 13:31:00,651 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-20 13:31:02,848 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-20 13:31:03,899 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-20 13:31:04,941 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-20 13:31:23,002 - sharecaar_testcases.Signup_TestCase -INFO - Signup button is clicked
+2024-03-20 13:31:23,007 - sharecaar_testcases.Signup_TestCase -INFO - Testcase is Failed
+2024-03-20 13:31:23,133 - sharecaar_testcases.Signup_TestCase -INFO - screenshot is taken for failedtestcase
+2024-03-20 13:31:23,134 - sharecaar_testcases.Signup_TestCase -INFO - Screenshot is taken
+2024-03-20 13:33:57,216 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-20 13:33:58,291 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-20 13:33:59,370 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-20 13:34:00,438 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-20 13:34:02,404 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-20 13:34:03,474 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-20 13:34:04,538 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-20 13:34:22,596 - sharecaar_testcases.Signup_TestCase -INFO - Signup button is clicked
+2024-03-20 13:34:22,604 - sharecaar_testcases.Signup_TestCase -INFO - Testcase is Failed
+2024-03-20 13:34:22,757 - sharecaar_testcases.Signup_TestCase -INFO - screenshot is taken for failedtestcase
+2024-03-20 13:34:22,757 - sharecaar_testcases.Signup_TestCase -INFO - Screenshot is taken
+2024-03-20 13:34:26,891 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-20 13:34:27,991 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-20 13:34:29,057 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-20 13:34:30,123 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-20 13:34:31,844 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-20 13:34:32,895 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-20 13:34:33,955 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-20 13:34:52,014 - sharecaar_testcases.Signup_TestCase -INFO - Signup button is clicked
+2024-03-20 13:34:52,021 - sharecaar_testcases.Signup_TestCase -INFO - Testcase is Failed
+2024-03-20 13:34:52,153 - sharecaar_testcases.Signup_TestCase -INFO - screenshot is taken for failedtestcase
+2024-03-20 13:34:52,155 - sharecaar_testcases.Signup_TestCase -INFO - Screenshot is taken
+2024-03-20 13:34:54,935 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-20 13:34:55,996 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-20 13:34:57,065 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-20 13:34:58,693 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-20 13:35:00,316 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-20 13:35:01,370 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-20 13:35:02,429 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-20 13:35:25,951 - sharecaar_testcases.Signup_TestCase -INFO - Signup button is clicked
+2024-03-20 13:35:25,957 - sharecaar_testcases.Signup_TestCase -INFO - Testcase is Passed
+2024-03-20 13:42:16,495 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-20 13:42:17,560 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-20 13:42:18,643 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-20 13:42:19,715 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-20 13:42:22,283 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-20 13:42:51,813 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-20 13:42:52,884 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-20 13:42:53,949 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-20 13:42:55,034 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-20 13:42:56,788 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-20 13:42:57,867 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-20 13:42:58,938 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-20 13:43:16,991 - sharecaar_testcases.Signup_TestCase -INFO - Signup button is clicked
+2024-03-20 13:43:16,997 - sharecaar_testcases.Signup_TestCase -INFO - Testcase is Failed
+2024-03-20 13:43:17,140 - sharecaar_testcases.Signup_TestCase -INFO - screenshot is taken for failedtestcase
+2024-03-20 13:43:17,141 - sharecaar_testcases.Signup_TestCase -INFO - Screenshot is taken
+2024-03-20 13:43:18,290 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-20 13:43:19,348 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-20 13:43:20,413 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-20 13:43:21,481 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-20 13:43:22,539 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-20 13:43:23,611 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-20 13:43:43,039 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-20 13:43:44,101 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-20 13:43:45,165 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-20 13:43:46,236 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-20 13:43:48,874 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-20 13:43:49,936 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-20 13:43:50,998 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-20 13:44:09,060 - sharecaar_testcases.Signup_TestCase -INFO - Signup button is clicked
+2024-03-20 13:44:09,065 - sharecaar_testcases.Signup_TestCase -INFO - Testcase is Failed
+2024-03-20 13:44:09,194 - sharecaar_testcases.Signup_TestCase -INFO - screenshot is taken for failedtestcase
+2024-03-20 13:44:09,195 - sharecaar_testcases.Signup_TestCase -INFO - Screenshot is taken
+2024-03-20 13:44:10,343 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-20 13:44:11,401 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-20 13:44:12,477 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-20 13:48:48,789 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-20 13:48:49,854 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-20 13:48:50,931 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-20 13:48:52,000 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-20 13:48:54,952 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-20 13:48:56,021 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-20 13:48:59,231 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-20 13:49:00,302 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-20 13:49:01,373 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-20 13:49:02,442 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-20 13:49:03,507 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-20 13:49:04,595 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-20 13:49:29,851 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-20 13:49:30,928 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-20 13:49:31,997 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-20 13:49:33,070 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-20 13:49:36,773 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-20 13:49:37,835 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-20 13:49:38,900 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-20 13:49:56,950 - sharecaar_testcases.Signup_TestCase -INFO - Signup button is clicked
+2024-03-20 13:49:56,958 - sharecaar_testcases.Signup_TestCase -INFO - Testcase is Failed
+2024-03-20 13:49:57,094 - sharecaar_testcases.Signup_TestCase -INFO - screenshot is taken for failedtestcase
+2024-03-20 13:49:57,095 - sharecaar_testcases.Signup_TestCase -INFO - Screenshot is taken
+2024-03-20 13:49:58,230 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-20 13:49:59,283 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-20 13:50:00,351 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-20 13:50:01,414 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-20 13:50:02,490 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-20 13:50:53,253 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-20 13:50:54,320 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-20 13:50:55,401 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-20 13:50:56,478 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-20 13:50:59,103 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-20 13:51:00,170 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-20 13:51:01,225 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-20 13:51:19,290 - sharecaar_testcases.Signup_TestCase -INFO - Signup button is clicked
+2024-03-20 13:51:19,299 - sharecaar_testcases.Signup_TestCase -INFO - Testcase is Failed
+2024-03-20 13:51:19,439 - sharecaar_testcases.Signup_TestCase -INFO - screenshot is taken for failedtestcase
+2024-03-20 13:51:19,440 - sharecaar_testcases.Signup_TestCase -INFO - Screenshot is taken
+2024-03-20 13:51:20,565 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-20 13:51:21,617 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-20 13:51:22,679 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-20 13:51:23,741 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-20 13:51:24,801 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-20 13:53:08,752 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-20 13:53:09,829 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-20 13:53:10,898 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-20 13:53:11,964 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-20 13:53:15,003 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-20 13:53:16,108 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-20 13:53:17,155 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-20 13:53:35,207 - sharecaar_testcases.Signup_TestCase -INFO - Signup button is clicked
+2024-03-20 13:53:35,215 - sharecaar_testcases.Signup_TestCase -INFO - Testcase is Failed
+2024-03-20 13:53:35,364 - sharecaar_testcases.Signup_TestCase -INFO - screenshot is taken for failedtestcase
+2024-03-20 13:53:35,364 - sharecaar_testcases.Signup_TestCase -INFO - Screenshot is taken
+2024-03-20 13:53:36,502 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-20 13:53:37,565 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-20 13:53:38,634 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-20 13:53:39,697 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-20 13:53:40,749 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-20 13:53:41,811 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-20 13:53:44,973 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-20 13:53:46,021 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-20 13:53:47,097 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-20 13:53:48,170 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-20 13:53:49,226 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-20 13:53:50,297 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-20 13:59:26,269 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-20 13:59:27,322 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-20 13:59:28,390 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-20 13:59:29,464 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-20 13:59:32,115 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-20 13:59:33,179 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-20 13:59:34,225 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-20 13:59:54,440 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-20 13:59:55,493 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-20 13:59:56,574 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-20 13:59:57,634 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-20 13:59:58,686 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-20 13:59:59,749 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-20 14:00:00,995 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-20 14:00:50,939 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-20 14:00:52,007 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-20 14:00:53,067 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-20 14:00:54,140 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-20 14:00:56,981 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-20 14:00:58,043 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-20 14:00:59,097 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-20 14:01:17,150 - sharecaar_testcases.Signup_TestCase -INFO - Signup button is clicked
+2024-03-20 14:01:17,159 - sharecaar_testcases.Signup_TestCase -INFO - Testcase is Failed
+2024-03-20 14:01:17,294 - sharecaar_testcases.Signup_TestCase -INFO - screenshot is taken for failedtestcase
+2024-03-20 14:01:17,294 - sharecaar_testcases.Signup_TestCase -INFO - Screenshot is taken
+2024-03-20 14:01:18,443 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-20 14:01:19,498 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-20 14:01:20,576 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-20 14:01:21,644 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-20 14:01:22,715 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-20 14:01:23,786 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-20 14:52:03,148 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-20 14:52:04,215 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-20 14:52:05,298 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-20 14:52:06,364 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-20 14:52:09,708 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-20 14:52:10,773 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-20 14:52:11,827 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-20 14:52:29,877 - sharecaar_testcases.Signup_TestCase -INFO - Signup button is clicked
+2024-03-20 14:52:29,885 - sharecaar_testcases.Signup_TestCase -INFO - Testcase is Failed
+2024-03-20 14:52:30,032 - sharecaar_testcases.Signup_TestCase -INFO - screenshot is taken for failedtestcase
+2024-03-20 14:52:30,032 - sharecaar_testcases.Signup_TestCase -INFO - Screenshot is taken
+2024-03-20 14:52:31,189 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-20 14:52:32,238 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-20 14:52:33,311 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-20 14:52:34,371 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-20 14:52:35,431 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-20 14:52:36,499 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-20 15:40:08,814 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-20 15:40:09,885 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-20 15:40:10,955 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-20 15:40:12,033 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-20 15:40:15,077 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-20 15:40:16,134 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-20 15:40:17,185 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-20 15:40:37,409 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-20 15:40:38,474 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-20 15:40:39,539 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-20 15:40:40,606 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-20 15:40:41,684 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-20 15:40:42,755 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-20 15:40:45,952 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-20 15:40:47,014 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-20 15:40:48,111 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-20 15:40:49,181 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-20 15:40:50,238 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-20 15:40:51,301 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-20 17:51:21,636 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-20 17:51:22,787 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-20 17:51:23,960 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-20 17:51:27,428 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-20 17:51:35,752 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-20 17:51:36,921 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-20 17:51:56,415 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-20 17:51:57,546 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-20 17:51:58,718 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-20 17:52:02,057 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-20 17:52:04,302 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-20 17:52:05,416 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-20 17:52:06,518 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-20 17:52:38,333 - sharecaar_testcases.Signup_TestCase -INFO - Signup button is clicked
+2024-03-21 11:55:34,292 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-21 11:55:35,363 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-21 11:55:36,447 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-21 11:55:39,672 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-21 11:55:43,055 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-21 11:55:44,114 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-21 11:55:45,169 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-21 11:56:31,598 - sharecaar_testcases.Signup_TestCase -INFO - FirstName is entered
+2024-03-21 11:56:32,687 - sharecaar_testcases.Signup_TestCase -INFO - LastName is entered
+2024-03-21 11:56:33,762 - sharecaar_testcases.Signup_TestCase -INFO - Email is entered
+2024-03-21 11:56:37,057 - sharecaar_testcases.Signup_TestCase -INFO - ContactNumber is entered
+2024-03-21 11:56:39,008 - sharecaar_testcases.Signup_TestCase -INFO - Password is entered
+2024-03-21 11:56:40,073 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
+2024-03-21 11:56:41,122 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
+2024-03-21 11:57:08,731 - sharecaar_testcases.Signup_TestCase -INFO - Signup button is clicked
