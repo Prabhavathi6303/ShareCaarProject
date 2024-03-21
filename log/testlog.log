@@ -1221,3 +1221,23 @@
 2024-03-21 11:56:40,073 - sharecaar_testcases.Signup_TestCase -INFO - ConfirmPassword is entered
 2024-03-21 11:56:41,122 - sharecaar_testcases.Signup_TestCase -INFO - Radiobutton is clicked
 2024-03-21 11:57:08,731 - sharecaar_testcases.Signup_TestCase -INFO - Signup button is clicked
+2024-03-21 18:11:53,288 - sharecaar_testcases.Search_TestCase -INFO - Leaving from details are entered
+2024-03-21 18:11:54,437 - sharecaar_testcases.Search_TestCase -INFO - Going to details are entered
+2024-03-21 18:11:55,669 - sharecaar_testcases.Search_TestCase -INFO - Journey Date is entered
+2024-03-21 18:12:07,872 - sharecaar_testcases.Search_TestCase -INFO - offer ride button is clicked
+2024-03-21 18:12:09,041 - sharecaar_testcases.Search_TestCase -INFO - Email is entered
+2024-03-21 18:12:10,211 - sharecaar_testcases.Search_TestCase -INFO - Password is entered
+2024-03-21 18:12:48,177 - sharecaar_testcases.Search_TestCase -INFO - Leaving from details are entered
+2024-03-21 18:12:49,339 - sharecaar_testcases.Search_TestCase -INFO - Going to details are entered
+2024-03-21 18:12:50,505 - sharecaar_testcases.Search_TestCase -INFO - Journey Date is entered
+2024-03-21 18:13:04,423 - sharecaar_testcases.Search_TestCase -INFO - offer ride button is clicked
+2024-03-21 18:13:05,597 - sharecaar_testcases.Search_TestCase -INFO - Email is entered
+2024-03-21 18:13:06,748 - sharecaar_testcases.Search_TestCase -INFO - Password is entered
+2024-03-21 18:13:15,596 - sharecaar_testcases.Search_TestCase -INFO - Login button is clicked
+2024-03-21 18:13:16,769 - sharecaar_testcases.Search_TestCase -INFO - Starting location details are entered
+2024-03-21 18:13:17,957 - sharecaar_testcases.Search_TestCase -INFO - Destination location is entered
+2024-03-21 18:13:19,115 - sharecaar_testcases.Search_TestCase -INFO - onward date is entered
+2024-03-21 18:13:20,250 - sharecaar_testcases.Search_TestCase -INFO - onward time is entered
+2024-03-21 18:13:21,380 - sharecaar_testcases.Search_TestCase -INFO - return date is entered
+2024-03-21 18:13:22,491 - sharecaar_testcases.Search_TestCase -INFO - return time is entered
+2024-03-21 18:13:23,592 - sharecaar_testcases.Search_TestCase -INFO - Save button is clicked

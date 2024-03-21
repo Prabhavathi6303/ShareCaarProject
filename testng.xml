@@ -10,7 +10,8 @@
 		  <!--<class name="sharecaar_testcases.Login_TestCase"></class>-->
 		  <!--<class name="sharecaar_testcases.LoginDataDrivenTesting"></class>-->
 		  <!--<class name="sharecaar_testcases.SignupDataDrivenTesting"></class>-->
-		  <class name="sharecaar_testcases.Signup_TestCase"></class>
+		  <!--<class name="sharecaar_testcases.Signup_TestCase"></class>-->
+		  <class name="sharecaar_testcases.Search_TestCase"></class>
 	  </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
