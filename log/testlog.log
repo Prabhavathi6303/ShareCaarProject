@@ -1241,3 +1241,414 @@
 2024-03-21 18:13:21,380 - sharecaar_testcases.Search_TestCase -INFO - return date is entered
 2024-03-21 18:13:22,491 - sharecaar_testcases.Search_TestCase -INFO - return time is entered
 2024-03-21 18:13:23,592 - sharecaar_testcases.Search_TestCase -INFO - Save button is clicked
+2024-03-26 09:46:16,212 - sharecaar_testcases.Search_TestCase -INFO - Leaving from details are entered
+2024-03-26 09:46:17,384 - sharecaar_testcases.Search_TestCase -INFO - Going to details are entered
+2024-03-26 09:46:18,576 - sharecaar_testcases.Search_TestCase -INFO - Journey Date is entered
+2024-03-26 09:46:32,092 - sharecaar_testcases.Search_TestCase -INFO - offer ride button is clicked
+2024-03-26 09:46:33,264 - sharecaar_testcases.Search_TestCase -INFO - Email is entered
+2024-03-26 09:46:34,411 - sharecaar_testcases.Search_TestCase -INFO - Password is entered
+2024-03-26 09:46:41,601 - sharecaar_testcases.Search_TestCase -INFO - Login button is clicked
+2024-03-26 09:46:42,769 - sharecaar_testcases.Search_TestCase -INFO - Starting location details are entered
+2024-03-26 09:46:43,915 - sharecaar_testcases.Search_TestCase -INFO - Destination location is entered
+2024-03-26 09:46:45,060 - sharecaar_testcases.Search_TestCase -INFO - onward date is entered
+2024-03-26 09:46:46,253 - sharecaar_testcases.Search_TestCase -INFO - onward time is entered
+2024-03-26 09:46:47,428 - sharecaar_testcases.Search_TestCase -INFO - return date is entered
+2024-03-26 09:46:48,524 - sharecaar_testcases.Search_TestCase -INFO - return time is entered
+2024-03-26 09:46:50,638 - sharecaar_testcases.Search_TestCase -INFO - Save button is clicked
+2024-03-26 11:48:20,690 - sharecaar_testcases.Search_TestCase -INFO - Leaving from details are entered
+2024-03-26 11:48:21,787 - sharecaar_testcases.Search_TestCase -INFO - Going to details are entered
+2024-03-26 11:48:22,888 - sharecaar_testcases.Search_TestCase -INFO - Journey Date is entered
+2024-03-26 11:48:33,047 - sharecaar_testcases.Search_TestCase -INFO - offer ride button is clicked
+2024-03-26 11:48:34,124 - sharecaar_testcases.Search_TestCase -INFO - Email is entered
+2024-03-26 11:48:35,196 - sharecaar_testcases.Search_TestCase -INFO - Password is entered
+2024-03-26 11:48:46,226 - sharecaar_testcases.Search_TestCase -INFO - Login button is clicked
+2024-03-26 11:48:47,318 - sharecaar_testcases.Search_TestCase -INFO - Starting location details are entered
+2024-03-26 11:48:48,406 - sharecaar_testcases.Search_TestCase -INFO - Destination location is entered
+2024-03-26 11:48:49,510 - sharecaar_testcases.Search_TestCase -INFO - onward date is entered
+2024-03-26 11:48:50,607 - sharecaar_testcases.Search_TestCase -INFO - onward time is entered
+2024-03-26 11:48:51,705 - sharecaar_testcases.Search_TestCase -INFO - return date is entered
+2024-03-26 11:48:52,772 - sharecaar_testcases.Search_TestCase -INFO - return time is entered
+2024-03-26 11:48:54,833 - sharecaar_testcases.Search_TestCase -INFO - Save button is clicked
+2024-03-26 17:38:54,468 - sharecaar_testcases.Navigation_TestCase -INFO - Offer ride button is clicked
+2024-03-26 17:38:55,674 - sharecaar_testcases.Navigation_TestCase -INFO - Email is entered
+2024-03-26 17:38:56,841 - sharecaar_testcases.Navigation_TestCase -INFO - Password is entered
+2024-03-26 17:39:02,780 - sharecaar_testcases.Navigation_TestCase -INFO - Login button is clicked
+2024-03-26 17:39:03,872 - sharecaar_testcases.Navigation_TestCase -INFO - Navbar is clicked
+2024-03-26 17:43:39,329 - sharecaar_testcases.Navigation_TestCase -INFO - Offer ride button is clicked
+2024-03-26 17:43:40,518 - sharecaar_testcases.Navigation_TestCase -INFO - Email is entered
+2024-03-26 17:43:41,660 - sharecaar_testcases.Navigation_TestCase -INFO - Password is entered
+2024-03-26 17:43:48,562 - sharecaar_testcases.Navigation_TestCase -INFO - Login button is clicked
+2024-03-26 17:43:49,667 - sharecaar_testcases.Navigation_TestCase -INFO - Navbar is clicked
+2024-03-26 17:48:36,139 - sharecaar_testcases.Navigation_TestCase -INFO - Offer ride button is clicked
+2024-03-26 17:48:37,328 - sharecaar_testcases.Navigation_TestCase -INFO - Email is entered
+2024-03-26 17:48:38,483 - sharecaar_testcases.Navigation_TestCase -INFO - Password is entered
+2024-03-26 17:49:34,497 - sharecaar_testcases.Navigation_TestCase -INFO - Offer ride button is clicked
+2024-03-26 17:49:35,658 - sharecaar_testcases.Navigation_TestCase -INFO - Email is entered
+2024-03-26 17:49:36,790 - sharecaar_testcases.Navigation_TestCase -INFO - Password is entered
+2024-03-26 17:54:50,157 - sharecaar_testcases.Navigation_TestCase -INFO - Offer ride button is clicked
+2024-03-26 17:54:51,373 - sharecaar_testcases.Navigation_TestCase -INFO - Email is entered
+2024-03-26 17:54:52,487 - sharecaar_testcases.Navigation_TestCase -INFO - Password is entered
+2024-03-26 17:55:02,898 - sharecaar_testcases.Navigation_TestCase -INFO - Login button is clicked
+2024-03-26 17:55:03,997 - sharecaar_testcases.Navigation_TestCase -INFO - Navbar is clicked
+2024-03-26 17:59:08,638 - sharecaar_testcases.Navigation_TestCase -INFO - Offer ride button is clicked
+2024-03-26 17:59:09,819 - sharecaar_testcases.Navigation_TestCase -INFO - Email is entered
+2024-03-26 17:59:10,926 - sharecaar_testcases.Navigation_TestCase -INFO - Password is entered
+2024-03-26 17:59:21,366 - sharecaar_testcases.Navigation_TestCase -INFO - Login button is clicked
+2024-03-26 17:59:22,450 - sharecaar_testcases.Navigation_TestCase -INFO - Navbar is clicked
+2024-03-26 18:05:07,851 - sharecaar_testcases.Navigation_TestCase -INFO - Offer ride button is clicked
+2024-03-26 18:05:09,059 - sharecaar_testcases.Navigation_TestCase -INFO - Email is entered
+2024-03-26 18:05:10,203 - sharecaar_testcases.Navigation_TestCase -INFO - Password is entered
+2024-03-26 18:06:31,541 - sharecaar_testcases.Navigation_TestCase -INFO - Offer ride button is clicked
+2024-03-26 18:06:32,679 - sharecaar_testcases.Navigation_TestCase -INFO - Email is entered
+2024-03-26 18:06:33,828 - sharecaar_testcases.Navigation_TestCase -INFO - Password is entered
+2024-03-26 18:06:50,486 - sharecaar_testcases.Navigation_TestCase -INFO - Login button is clicked
+2024-03-26 18:06:51,587 - sharecaar_testcases.Navigation_TestCase -INFO - Navbar is clicked
+2024-03-26 18:07:01,962 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into profile page and get the data
+2024-03-26 18:09:04,569 - sharecaar_testcases.Navigation_TestCase -INFO - Offer ride button is clicked
+2024-03-26 18:09:05,760 - sharecaar_testcases.Navigation_TestCase -INFO - Email is entered
+2024-03-26 18:09:06,870 - sharecaar_testcases.Navigation_TestCase -INFO - Password is entered
+2024-03-26 18:09:18,591 - sharecaar_testcases.Navigation_TestCase -INFO - Login button is clicked
+2024-03-26 18:09:19,692 - sharecaar_testcases.Navigation_TestCase -INFO - Navbar is clicked
+2024-03-26 18:09:34,950 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into profile page and get the data
+2024-03-26 18:12:27,795 - sharecaar_testcases.Navigation_TestCase -INFO - Offer ride button is clicked
+2024-03-26 18:12:28,990 - sharecaar_testcases.Navigation_TestCase -INFO - Email is entered
+2024-03-26 18:12:30,115 - sharecaar_testcases.Navigation_TestCase -INFO - Password is entered
+2024-03-26 18:14:24,149 - sharecaar_testcases.Navigation_TestCase -INFO - Offer ride button is clicked
+2024-03-26 18:14:25,344 - sharecaar_testcases.Navigation_TestCase -INFO - Email is entered
+2024-03-26 18:14:26,504 - sharecaar_testcases.Navigation_TestCase -INFO - Password is entered
+2024-03-26 18:14:37,340 - sharecaar_testcases.Navigation_TestCase -INFO - Login button is clicked
+2024-03-26 18:14:38,411 - sharecaar_testcases.Navigation_TestCase -INFO - Navbar is clicked
+2024-03-26 18:14:51,691 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into profile page and get the data
+2024-03-26 18:17:47,784 - sharecaar_testcases.Navigation_TestCase -INFO - Offer ride button is clicked
+2024-03-26 18:17:48,962 - sharecaar_testcases.Navigation_TestCase -INFO - Email is entered
+2024-03-26 18:17:50,062 - sharecaar_testcases.Navigation_TestCase -INFO - Password is entered
+2024-03-26 18:19:01,254 - sharecaar_testcases.Navigation_TestCase -INFO - Offer ride button is clicked
+2024-03-26 18:19:02,422 - sharecaar_testcases.Navigation_TestCase -INFO - Email is entered
+2024-03-26 18:19:03,535 - sharecaar_testcases.Navigation_TestCase -INFO - Password is entered
+2024-03-26 18:19:49,497 - sharecaar_testcases.Navigation_TestCase -INFO - Offer ride button is clicked
+2024-03-26 18:19:50,676 - sharecaar_testcases.Navigation_TestCase -INFO - Email is entered
+2024-03-26 18:19:51,822 - sharecaar_testcases.Navigation_TestCase -INFO - Password is entered
+2024-03-26 18:20:02,722 - sharecaar_testcases.Navigation_TestCase -INFO - Login button is clicked
+2024-03-26 18:20:03,817 - sharecaar_testcases.Navigation_TestCase -INFO - Navbar is clicked
+2024-03-26 18:20:12,487 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into profile page and get the data
+2024-03-26 18:20:16,068 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-26 18:21:31,848 - sharecaar_testcases.Navigation_TestCase -INFO - Offer ride button is clicked
+2024-03-26 18:21:33,029 - sharecaar_testcases.Navigation_TestCase -INFO - Email is entered
+2024-03-26 18:21:34,189 - sharecaar_testcases.Navigation_TestCase -INFO - Password is entered
+2024-03-26 18:21:42,866 - sharecaar_testcases.Navigation_TestCase -INFO - Login button is clicked
+2024-03-26 18:21:43,942 - sharecaar_testcases.Navigation_TestCase -INFO - Navbar is clicked
+2024-03-26 18:21:52,393 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into profile page and get the data
+2024-03-26 18:21:55,929 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-26 18:23:06,534 - sharecaar_testcases.Navigation_TestCase -INFO - Offer ride button is clicked
+2024-03-26 18:23:07,716 - sharecaar_testcases.Navigation_TestCase -INFO - Email is entered
+2024-03-26 18:23:08,857 - sharecaar_testcases.Navigation_TestCase -INFO - Password is entered
+2024-03-26 18:23:20,603 - sharecaar_testcases.Navigation_TestCase -INFO - Login button is clicked
+2024-03-26 18:23:21,712 - sharecaar_testcases.Navigation_TestCase -INFO - Navbar is clicked
+2024-03-26 18:23:30,355 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into profile page and get the data
+2024-03-26 18:23:33,883 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-26 18:25:34,923 - sharecaar_testcases.Navigation_TestCase -INFO - Offer ride button is clicked
+2024-03-26 18:25:36,138 - sharecaar_testcases.Navigation_TestCase -INFO - Email is entered
+2024-03-26 18:25:37,306 - sharecaar_testcases.Navigation_TestCase -INFO - Password is entered
+2024-03-26 18:26:01,731 - sharecaar_testcases.Navigation_TestCase -INFO - Login button is clicked
+2024-03-26 18:26:02,799 - sharecaar_testcases.Navigation_TestCase -INFO - Navbar is clicked
+2024-03-26 18:26:11,412 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into profile page and get the data
+2024-03-26 18:26:15,838 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-26 18:28:48,881 - sharecaar_testcases.Navigation_TestCase -INFO - Offer ride button is clicked
+2024-03-26 18:28:49,957 - sharecaar_testcases.Navigation_TestCase -INFO - Email is entered
+2024-03-26 18:28:51,022 - sharecaar_testcases.Navigation_TestCase -INFO - Password is entered
+2024-03-26 18:29:07,702 - sharecaar_testcases.Navigation_TestCase -INFO - Login button is clicked
+2024-03-26 18:29:08,759 - sharecaar_testcases.Navigation_TestCase -INFO - Navbar is clicked
+2024-03-26 18:29:56,155 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into profile page and get the data
+2024-03-26 18:30:01,066 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-26 18:31:44,106 - sharecaar_testcases.Navigation_TestCase -INFO - Offer ride button is clicked
+2024-03-26 18:31:45,186 - sharecaar_testcases.Navigation_TestCase -INFO - Email is entered
+2024-03-26 18:31:46,248 - sharecaar_testcases.Navigation_TestCase -INFO - Password is entered
+2024-03-26 18:31:57,262 - sharecaar_testcases.Navigation_TestCase -INFO - Login button is clicked
+2024-03-26 18:31:58,317 - sharecaar_testcases.Navigation_TestCase -INFO - Navbar is clicked
+2024-03-26 18:32:11,485 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into profile page and get the data
+2024-03-26 18:32:29,217 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-26 18:32:36,475 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into My Bookings page
+2024-03-26 18:32:39,174 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-26 18:32:46,711 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into My Rides page
+2024-03-26 18:32:50,169 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-26 18:33:02,648 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into Financial dashboard page
+2024-03-26 18:33:05,471 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-26 18:33:14,105 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into Account setting page
+2024-03-26 18:33:16,848 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-26 18:33:24,871 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into Wallet page
+2024-03-26 18:33:27,738 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-26 18:33:36,473 - sharecaar_testcases.Navigation_TestCase -INFO - User is successfully signout
+2024-03-26 18:47:48,852 - sharecaar_testcases.Navigation_TestCase -INFO - Offer ride button is clicked
+2024-03-26 18:47:49,935 - sharecaar_testcases.Navigation_TestCase -INFO - Email is entered
+2024-03-26 18:47:51,008 - sharecaar_testcases.Navigation_TestCase -INFO - Password is entered
+2024-03-26 18:48:05,784 - sharecaar_testcases.Navigation_TestCase -INFO - Login button is clicked
+2024-03-26 18:48:06,843 - sharecaar_testcases.Navigation_TestCase -INFO - Navbar is clicked
+2024-03-26 18:48:16,067 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into profile page and get the data
+2024-03-26 18:48:19,580 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-26 18:48:29,490 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into My Bookings page
+2024-03-26 18:48:32,515 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-26 18:48:45,839 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into My Rides page
+2024-03-26 18:48:49,919 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-26 18:49:02,247 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into Financial dashboard page
+2024-03-26 18:49:05,007 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-26 18:49:14,335 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into Account setting page
+2024-03-26 18:49:17,035 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-26 18:49:27,023 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into Wallet page
+2024-03-26 18:49:31,133 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-26 18:49:39,672 - sharecaar_testcases.Navigation_TestCase -INFO - User is successfully signout
+2024-03-27 09:43:27,099 - sharecaar_testcases.Navigation_TestCase -INFO - Offer ride button is clicked
+2024-03-27 09:43:28,231 - sharecaar_testcases.Navigation_TestCase -INFO - Email is entered
+2024-03-27 09:43:29,322 - sharecaar_testcases.Navigation_TestCase -INFO - Password is entered
+2024-03-27 09:43:51,361 - sharecaar_testcases.Navigation_TestCase -INFO - Login button is clicked
+2024-03-27 09:43:52,437 - sharecaar_testcases.Navigation_TestCase -INFO - Navbar is clicked
+2024-03-27 09:44:04,531 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into profile page and get the data
+2024-03-27 09:44:12,202 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-27 09:44:30,538 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into My Bookings page
+2024-03-27 09:44:33,249 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-27 09:44:46,804 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into My Rides page
+2024-03-27 09:44:50,601 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-27 09:45:03,091 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into Financial dashboard page
+2024-03-27 09:45:07,162 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-27 09:45:16,790 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into Account setting page
+2024-03-27 09:45:19,502 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-27 09:45:29,343 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into Wallet page
+2024-03-27 09:45:32,015 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-27 09:45:40,387 - sharecaar_testcases.Navigation_TestCase -INFO - User is successfully signout
+2024-03-27 09:46:47,962 - sharecaar_testcases.Navigation_TestCase -INFO - Offer ride button is clicked
+2024-03-27 09:46:49,085 - sharecaar_testcases.Navigation_TestCase -INFO - Email is entered
+2024-03-27 09:46:50,172 - sharecaar_testcases.Navigation_TestCase -INFO - Password is entered
+2024-03-27 09:47:01,349 - sharecaar_testcases.Navigation_TestCase -INFO - Login button is clicked
+2024-03-27 09:47:02,416 - sharecaar_testcases.Navigation_TestCase -INFO - Navbar is clicked
+2024-03-27 09:47:12,549 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into profile page and get the data
+2024-03-27 09:47:16,959 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-27 09:47:28,205 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into My Bookings page
+2024-03-27 09:47:30,964 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-27 09:47:42,865 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into My Rides page
+2024-03-27 09:47:45,852 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-27 09:47:58,411 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into Financial dashboard page
+2024-03-27 09:48:01,744 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-27 09:48:10,879 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into Account setting page
+2024-03-27 09:48:13,540 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-27 09:48:24,066 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into Wallet page
+2024-03-27 09:48:27,107 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-27 09:48:35,565 - sharecaar_testcases.Navigation_TestCase -INFO - User is successfully signout
+2024-03-27 10:49:41,159 - sharecaar_testcases.Navigation_TestCase -INFO - Offer ride button is clicked
+2024-03-27 10:49:42,253 - sharecaar_testcases.Navigation_TestCase -INFO - Email is entered
+2024-03-27 10:49:43,329 - sharecaar_testcases.Navigation_TestCase -INFO - Password is entered
+2024-03-27 10:49:54,595 - sharecaar_testcases.Navigation_TestCase -INFO - Login button is clicked
+2024-03-27 10:49:55,650 - sharecaar_testcases.Navigation_TestCase -INFO - Navbar is clicked
+2024-03-27 10:50:04,527 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into profile page and get the data
+2024-03-27 10:50:08,092 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-27 10:50:18,949 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into My Bookings page
+2024-03-27 10:50:21,667 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-27 10:50:33,852 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into My Rides page
+2024-03-27 10:50:36,508 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-27 10:50:49,041 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into Financial dashboard page
+2024-03-27 10:50:52,601 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-27 10:51:02,629 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into Account setting page
+2024-03-27 10:51:05,300 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-27 10:51:15,704 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into Wallet page
+2024-03-27 10:51:19,222 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-27 10:51:26,984 - sharecaar_testcases.Navigation_TestCase -INFO - User is successfully signout
+2024-03-27 12:06:48,531 - sharecaar_testcases.Navigation_TestCase -INFO - Offer ride button is clicked
+2024-03-27 12:06:49,619 - sharecaar_testcases.Navigation_TestCase -INFO - Email is entered
+2024-03-27 12:06:50,683 - sharecaar_testcases.Navigation_TestCase -INFO - Password is entered
+2024-03-27 12:07:03,001 - sharecaar_testcases.Navigation_TestCase -INFO - Login button is clicked
+2024-03-27 12:07:04,064 - sharecaar_testcases.Navigation_TestCase -INFO - Click on account
+2024-03-27 12:07:14,627 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into profile page and get the data
+2024-03-27 12:07:18,055 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-27 12:07:20,109 - sharecaar_testcases.Navigation_TestCase -INFO - Click on account
+2024-03-27 12:07:28,630 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into My Bookings page
+2024-03-27 12:07:31,351 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-27 12:07:33,386 - sharecaar_testcases.Navigation_TestCase -INFO - Click on account
+2024-03-27 12:07:43,431 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into My Rides page
+2024-03-27 12:07:46,758 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-27 12:07:48,800 - sharecaar_testcases.Navigation_TestCase -INFO - Click on account
+2024-03-27 12:07:59,442 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into Financial dashboard page
+2024-03-27 12:08:02,155 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-27 12:08:04,216 - sharecaar_testcases.Navigation_TestCase -INFO - Click on account
+2024-03-27 12:08:12,334 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into Account setting page
+2024-03-27 12:08:15,698 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-27 12:08:17,728 - sharecaar_testcases.Navigation_TestCase -INFO - Click on account
+2024-03-27 12:08:25,559 - sharecaar_testcases.Navigation_TestCase -INFO - User is navigated into Wallet page
+2024-03-27 12:08:28,877 - sharecaar_testcases.Navigation_TestCase -INFO - user is navigated to back page
+2024-03-27 12:08:30,923 - sharecaar_testcases.Navigation_TestCase -INFO - Click on account
+2024-03-27 12:08:37,111 - sharecaar_testcases.Navigation_TestCase -INFO - User is successfully signout
+2024-03-27 12:15:30,965 - sharecaar_testcases.SignupDataDrivenTesting -INFO - FirstName is entered
+2024-03-27 12:15:32,034 - sharecaar_testcases.SignupDataDrivenTesting -INFO - LastName is entered
+2024-03-27 12:15:33,091 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Email is entered
+2024-03-27 12:15:34,166 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ContactNumber is entered
+2024-03-27 12:15:36,118 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Password is entered
+2024-03-27 12:15:37,187 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ConfirmPassword is entered
+2024-03-27 12:15:38,248 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Radiobutton is clicked
+2024-03-27 12:15:56,326 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Signup button is clicked
+2024-03-27 12:15:56,331 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Testcase is Failed
+2024-03-27 12:15:56,478 - sharecaar_testcases.SignupDataDrivenTesting -INFO - screenshot is taken for failedtestcase
+2024-03-27 12:15:56,479 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Screenshot is taken
+2024-03-27 12:15:57,610 - sharecaar_testcases.SignupDataDrivenTesting -INFO - FirstName is entered
+2024-03-27 12:15:58,659 - sharecaar_testcases.SignupDataDrivenTesting -INFO - LastName is entered
+2024-03-27 12:15:59,729 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Email is entered
+2024-03-27 12:16:00,792 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ContactNumber is entered
+2024-03-27 12:16:01,857 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Password is entered
+2024-03-27 12:16:24,201 - sharecaar_testcases.SignupDataDrivenTesting -INFO - FirstName is entered
+2024-03-27 12:16:25,279 - sharecaar_testcases.SignupDataDrivenTesting -INFO - LastName is entered
+2024-03-27 12:16:26,335 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Email is entered
+2024-03-27 12:16:27,403 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ContactNumber is entered
+2024-03-27 12:16:29,816 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Password is entered
+2024-03-27 12:16:30,872 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ConfirmPassword is entered
+2024-03-27 12:16:31,926 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Radiobutton is clicked
+2024-03-27 12:16:49,977 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Signup button is clicked
+2024-03-27 12:16:49,985 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Testcase is Failed
+2024-03-27 12:16:50,118 - sharecaar_testcases.SignupDataDrivenTesting -INFO - screenshot is taken for failedtestcase
+2024-03-27 12:16:50,120 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Screenshot is taken
+2024-03-27 12:16:51,260 - sharecaar_testcases.SignupDataDrivenTesting -INFO - FirstName is entered
+2024-03-27 12:16:52,326 - sharecaar_testcases.SignupDataDrivenTesting -INFO - LastName is entered
+2024-03-27 12:16:53,387 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Email is entered
+2024-03-27 12:16:54,444 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ContactNumber is entered
+2024-03-27 12:18:55,763 - sharecaar_testcases.SignupDataDrivenTesting -INFO - FirstName is entered
+2024-03-27 12:18:56,822 - sharecaar_testcases.SignupDataDrivenTesting -INFO - LastName is entered
+2024-03-27 12:18:57,896 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Email is entered
+2024-03-27 12:18:58,964 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ContactNumber is entered
+2024-03-27 12:19:02,458 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Password is entered
+2024-03-27 12:19:03,523 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ConfirmPassword is entered
+2024-03-27 12:19:06,693 - sharecaar_testcases.SignupDataDrivenTesting -INFO - FirstName is entered
+2024-03-27 12:19:07,789 - sharecaar_testcases.SignupDataDrivenTesting -INFO - LastName is entered
+2024-03-27 12:19:08,863 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Email is entered
+2024-03-27 12:19:09,924 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ContactNumber is entered
+2024-03-27 12:19:54,106 - sharecaar_testcases.SignupDataDrivenTesting -INFO - FirstName is entered
+2024-03-27 12:19:55,164 - sharecaar_testcases.SignupDataDrivenTesting -INFO - LastName is entered
+2024-03-27 12:19:56,229 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Email is entered
+2024-03-27 12:19:57,294 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ContactNumber is entered
+2024-03-27 12:20:00,636 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Password is entered
+2024-03-27 12:20:01,707 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ConfirmPassword is entered
+2024-03-27 12:20:02,758 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Radiobutton is clicked
+2024-03-27 12:20:22,954 - sharecaar_testcases.SignupDataDrivenTesting -INFO - FirstName is entered
+2024-03-27 12:20:24,009 - sharecaar_testcases.SignupDataDrivenTesting -INFO - LastName is entered
+2024-03-27 12:20:25,098 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Email is entered
+2024-03-27 12:20:26,163 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ContactNumber is entered
+2024-03-27 12:20:27,218 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Password is entered
+2024-03-27 12:20:28,283 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ConfirmPassword is entered
+2024-03-27 12:27:05,388 - sharecaar_testcases.SignupDataDrivenTesting -INFO - FirstName is entered
+2024-03-27 12:27:06,454 - sharecaar_testcases.SignupDataDrivenTesting -INFO - LastName is entered
+2024-03-27 12:27:07,528 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Email is entered
+2024-03-27 12:27:08,593 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ContactNumber is entered
+2024-03-27 12:27:10,402 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Password is entered
+2024-03-27 12:27:11,461 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ConfirmPassword is entered
+2024-03-27 12:27:12,500 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Radiobutton is clicked
+2024-03-27 12:27:30,548 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Signup button is clicked
+2024-03-27 12:27:30,557 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Testcase is Failed
+2024-03-27 12:27:30,689 - sharecaar_testcases.SignupDataDrivenTesting -INFO - screenshot is taken for failedtestcase
+2024-03-27 12:27:30,690 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Screenshot is taken
+2024-03-27 12:27:34,657 - sharecaar_testcases.SignupDataDrivenTesting -INFO - FirstName is entered
+2024-03-27 12:27:35,714 - sharecaar_testcases.SignupDataDrivenTesting -INFO - LastName is entered
+2024-03-27 12:27:36,767 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Email is entered
+2024-03-27 12:27:37,817 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ContactNumber is entered
+2024-03-27 12:27:40,103 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Password is entered
+2024-03-27 12:27:41,168 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ConfirmPassword is entered
+2024-03-27 12:27:42,228 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Radiobutton is clicked
+2024-03-27 12:28:02,349 - sharecaar_testcases.SignupDataDrivenTesting -INFO - FirstName is entered
+2024-03-27 12:28:03,415 - sharecaar_testcases.SignupDataDrivenTesting -INFO - LastName is entered
+2024-03-27 12:28:04,501 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Email is entered
+2024-03-27 12:28:05,568 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ContactNumber is entered
+2024-03-27 12:28:27,167 - sharecaar_testcases.SignupDataDrivenTesting -INFO - FirstName is entered
+2024-03-27 12:28:28,225 - sharecaar_testcases.SignupDataDrivenTesting -INFO - LastName is entered
+2024-03-27 12:28:29,298 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Email is entered
+2024-03-27 12:28:30,372 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ContactNumber is entered
+2024-03-27 12:28:34,265 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Password is entered
+2024-03-27 12:28:35,332 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ConfirmPassword is entered
+2024-03-27 12:28:36,403 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Radiobutton is clicked
+2024-03-27 12:30:06,475 - sharecaar_testcases.SignupDataDrivenTesting -INFO - FirstName is entered
+2024-03-27 12:30:07,541 - sharecaar_testcases.SignupDataDrivenTesting -INFO - LastName is entered
+2024-03-27 12:30:08,606 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Email is entered
+2024-03-27 12:30:09,673 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ContactNumber is entered
+2024-03-27 12:30:12,967 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Password is entered
+2024-03-27 12:30:14,024 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ConfirmPassword is entered
+2024-03-27 12:30:15,069 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Radiobutton is clicked
+2024-03-27 12:30:35,139 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Signup button is clicked
+2024-03-27 12:30:35,147 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Testcase is Failed
+2024-03-27 12:30:35,284 - sharecaar_testcases.SignupDataDrivenTesting -INFO - screenshot is taken for failedtestcase
+2024-03-27 12:30:35,284 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Screenshot is taken
+2024-03-27 12:30:38,176 - sharecaar_testcases.SignupDataDrivenTesting -INFO - FirstName is entered
+2024-03-27 12:30:39,248 - sharecaar_testcases.SignupDataDrivenTesting -INFO - LastName is entered
+2024-03-27 12:30:40,302 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Email is entered
+2024-03-27 12:30:41,365 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ContactNumber is entered
+2024-03-27 12:30:43,741 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Password is entered
+2024-03-27 12:30:44,814 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ConfirmPassword is entered
+2024-03-27 12:30:45,871 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Radiobutton is clicked
+2024-03-27 12:31:05,916 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Signup button is clicked
+2024-03-27 12:31:05,923 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Testcase is Failed
+2024-03-27 12:31:06,071 - sharecaar_testcases.SignupDataDrivenTesting -INFO - screenshot is taken for failedtestcase
+2024-03-27 12:31:06,072 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Screenshot is taken
+2024-03-27 12:31:08,831 - sharecaar_testcases.SignupDataDrivenTesting -INFO - FirstName is entered
+2024-03-27 12:31:09,902 - sharecaar_testcases.SignupDataDrivenTesting -INFO - LastName is entered
+2024-03-27 12:31:10,966 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Email is entered
+2024-03-27 12:31:12,638 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ContactNumber is entered
+2024-03-27 12:31:14,283 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Password is entered
+2024-03-27 12:31:15,335 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ConfirmPassword is entered
+2024-03-27 12:31:16,383 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Radiobutton is clicked
+2024-03-27 12:31:36,423 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Signup button is clicked
+2024-03-27 12:31:36,429 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Testcase is Failed
+2024-03-27 12:31:36,563 - sharecaar_testcases.SignupDataDrivenTesting -INFO - screenshot is taken for failedtestcase
+2024-03-27 12:31:36,563 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Screenshot is taken
+2024-03-27 12:32:33,815 - sharecaar_testcases.SignupDataDrivenTesting -INFO - FirstName is entered
+2024-03-27 12:32:34,882 - sharecaar_testcases.SignupDataDrivenTesting -INFO - LastName is entered
+2024-03-27 12:32:35,934 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Email is entered
+2024-03-27 12:32:37,002 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ContactNumber is entered
+2024-03-27 12:32:38,602 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Password is entered
+2024-03-27 12:32:39,670 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ConfirmPassword is entered
+2024-03-27 12:32:40,721 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Radiobutton is clicked
+2024-03-27 12:33:00,783 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Signup button is clicked
+2024-03-27 12:33:00,792 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Testcase is Failed
+2024-03-27 12:33:00,933 - sharecaar_testcases.SignupDataDrivenTesting -INFO - screenshot is taken for failedtestcase
+2024-03-27 12:33:00,934 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Screenshot is taken
+2024-03-27 12:33:03,825 - sharecaar_testcases.SignupDataDrivenTesting -INFO - FirstName is entered
+2024-03-27 12:33:04,889 - sharecaar_testcases.SignupDataDrivenTesting -INFO - LastName is entered
+2024-03-27 12:33:05,952 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Email is entered
+2024-03-27 12:33:07,007 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ContactNumber is entered
+2024-03-27 12:33:08,598 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Password is entered
+2024-03-27 12:33:09,659 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ConfirmPassword is entered
+2024-03-27 12:33:10,700 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Radiobutton is clicked
+2024-03-27 12:33:30,764 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Signup button is clicked
+2024-03-27 12:33:30,771 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Testcase is Failed
+2024-03-27 12:33:30,904 - sharecaar_testcases.SignupDataDrivenTesting -INFO - screenshot is taken for failedtestcase
+2024-03-27 12:33:30,905 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Screenshot is taken
+2024-03-27 12:33:33,835 - sharecaar_testcases.SignupDataDrivenTesting -INFO - FirstName is entered
+2024-03-27 12:33:34,905 - sharecaar_testcases.SignupDataDrivenTesting -INFO - LastName is entered
+2024-03-27 12:33:35,973 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Email is entered
+2024-03-27 12:33:37,628 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ContactNumber is entered
+2024-03-27 12:33:39,855 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Password is entered
+2024-03-27 12:33:40,916 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ConfirmPassword is entered
+2024-03-27 12:33:41,971 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Radiobutton is clicked
+2024-03-27 12:34:06,822 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Signup button is clicked
+2024-03-27 12:34:06,830 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Testcase is Passed
+2024-03-27 12:38:10,974 - sharecaar_testcases.SignupDataDrivenTesting -INFO - FirstName is entered
+2024-03-27 12:38:12,039 - sharecaar_testcases.SignupDataDrivenTesting -INFO - LastName is entered
+2024-03-27 12:38:13,097 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Email is entered
+2024-03-27 12:38:14,173 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ContactNumber is entered
+2024-03-27 12:38:16,884 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Password is entered
+2024-03-27 12:38:17,936 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ConfirmPassword is entered
+2024-03-27 12:38:18,988 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Radiobutton is clicked
+2024-03-27 12:38:39,058 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Signup button is clicked
+2024-03-27 12:38:39,065 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Testcase is Failed
+2024-03-27 12:38:39,211 - sharecaar_testcases.SignupDataDrivenTesting -INFO - screenshot is taken for failedtestcase
+2024-03-27 12:38:39,211 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Screenshot is taken
+2024-03-27 12:38:41,936 - sharecaar_testcases.SignupDataDrivenTesting -INFO - FirstName is entered
+2024-03-27 12:38:42,984 - sharecaar_testcases.SignupDataDrivenTesting -INFO - LastName is entered
+2024-03-27 12:38:44,034 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Email is entered
+2024-03-27 12:38:45,092 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ContactNumber is entered
+2024-03-27 12:38:47,378 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Password is entered
+2024-03-27 12:38:48,437 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ConfirmPassword is entered
+2024-03-27 12:38:49,484 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Radiobutton is clicked
+2024-03-27 12:39:09,552 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Signup button is clicked
+2024-03-27 12:39:09,560 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Testcase is Failed
+2024-03-27 12:39:09,699 - sharecaar_testcases.SignupDataDrivenTesting -INFO - screenshot is taken for failedtestcase
+2024-03-27 12:39:09,700 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Screenshot is taken
+2024-03-27 12:39:13,400 - sharecaar_testcases.SignupDataDrivenTesting -INFO - FirstName is entered
+2024-03-27 12:39:14,463 - sharecaar_testcases.SignupDataDrivenTesting -INFO - LastName is entered
+2024-03-27 12:39:15,540 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Email is entered
+2024-03-27 12:39:17,823 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ContactNumber is entered
+2024-03-27 12:39:19,421 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Password is entered
+2024-03-27 12:39:20,476 - sharecaar_testcases.SignupDataDrivenTesting -INFO - ConfirmPassword is entered
+2024-03-27 12:39:21,539 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Radiobutton is clicked
+2024-03-27 12:39:45,265 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Signup button is clicked
+2024-03-27 12:39:45,275 - sharecaar_testcases.SignupDataDrivenTesting -INFO - Testcase is Passed

@@ -8,7 +8,7 @@ import sharecaar_pageobjects.SignupPage;
 
 public class Signup_TestCase extends Signup_BaseClass {
 	@Test()
-	public void SignupTest2() throws InterruptedException 
+	public void SignupTest() throws InterruptedException 
 	{
 		
 		SignupPage S=new SignupPage(driver);

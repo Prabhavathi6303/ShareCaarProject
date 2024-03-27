@@ -12,7 +12,7 @@ import com.aventstack.extentreports.Status;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 import com.aventstack.extentreports.reporter.configuration.Theme;
 
-public class Login_Reporting implements ITestListener{
+public class Navigation_Reporting implements ITestListener{
 	//Step1:gives the extent report information
 	//gives UI part of the report--Title, doc-name, color...
 	public ExtentSparkReporter reporter;
@@ -23,7 +23,7 @@ public class Login_Reporting implements ITestListener{
 	public void onStart(ITestContext context) 
 	{
 		//give the report target location
-		reporter=new ExtentSparkReporter(System.getProperty("user.dir")+"\\Reports\\DataDrivenLoginReport.html");
+		reporter=new ExtentSparkReporter(System.getProperty("user.dir")+"\\Reports\\NavigationReport.html");
 
 		//Title of the report
 		reporter.config().setDocumentTitle("Automation Testing Report");
@@ -81,6 +81,9 @@ public class Login_Reporting implements ITestListener{
 	{
 		extent.flush();
 	}
+
+
+	
 
 
 }

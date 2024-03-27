@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="3" passed="1" failed="2" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-21T18:12:32 IST" name="Suite" finished-at="2024-03-21T18:13:23 IST" duration-ms="51129">
+  <suite started-at="2024-03-27T12:37:54 IST" name="Suite" finished-at="2024-03-27T12:39:45 IST" duration-ms="110703">
     <groups>
     </groups>
-    <test started-at="2024-03-21T18:12:32 IST" name="Test" finished-at="2024-03-21T18:13:23 IST" duration-ms="51129">
-      <class name="sharecaar_testcases.Search_TestCase">
-        <test-method is-config="true" signature="OpenApplication(java.lang.String)[pri:0, instance:sharecaar_testcases.Search_TestCase@4c12331b]" started-at="2024-03-21T18:12:32 IST" name="OpenApplication" finished-at="2024-03-21T18:12:46 IST" duration-ms="14010" status="PASS">
+    <test started-at="2024-03-27T12:37:54 IST" name="Test" finished-at="2024-03-27T12:39:45 IST" duration-ms="110703">
+      <class name="sharecaar_testcases.SignupDataDrivenTesting">
+        <test-method is-config="true" signature="OpenApplication(java.lang.String)[pri:0, instance:sharecaar_testcases.SignupDataDrivenTesting@229f66ed]" started-at="2024-03-27T12:37:54 IST" name="OpenApplication" finished-at="2024-03-27T12:38:08 IST" duration-ms="13807" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,203 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OpenApplication -->
-        <test-method signature="SearchTest()[pri:0, instance:sharecaar_testcases.Search_TestCase@4c12331b]" started-at="2024-03-21T18:12:46 IST" name="SearchTest" finished-at="2024-03-21T18:13:23 IST" duration-ms="36645" status="PASS">
+        <test-method signature="Signup(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:sharecaar_testcases.SignupDataDrivenTesting@229f66ed]" started-at="2024-03-27T12:38:09 IST" name="Signup" data-provider="ShareCaarSignup" finished-at="2024-03-27T12:38:40 IST" duration-ms="30996" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seller]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[seller@gmail]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9234567891]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[seller123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[seller123]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at org.testng.Assert.assertTrue(Assert.java:67)
+at sharecaar_testcases.SignupDataDrivenTesting.Signup(SignupDataDrivenTesting.java:56)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- SearchTest -->
-        <test-method is-config="true" signature="CloseApplication()[pri:0, instance:sharecaar_testcases.Search_TestCase@4c12331b]" started-at="2024-03-21T18:13:23 IST" name="CloseApplication" finished-at="2024-03-21T18:13:23 IST" duration-ms="124" status="PASS">
+        </test-method> <!-- Signup -->
+        <test-method signature="Signup(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:sharecaar_testcases.SignupDataDrivenTesting@229f66ed]" started-at="2024-03-27T12:38:40 IST" name="Signup" data-provider="ShareCaarSignup" finished-at="2024-03-27T12:39:12 IST" duration-ms="31448" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[buyer]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[buyyer@.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[8234567123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[buyer123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[buyer123]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertTrue(Assert.java:57)
+at org.testng.Assert.assertTrue(Assert.java:67)
+at sharecaar_testcases.SignupDataDrivenTesting.Signup(SignupDataDrivenTesting.java:56)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signup -->
+        <test-method signature="Signup(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:sharecaar_testcases.SignupDataDrivenTesting@229f66ed]" started-at="2024-03-27T12:39:12 IST" name="Signup" data-provider="ShareCaarSignup" finished-at="2024-03-27T12:39:45 IST" duration-ms="32944" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[prabhavathi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mallepally]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[prabhavathi@441gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1123456789]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signup -->
+        <test-method is-config="true" signature="CloseApplication()[pri:0, instance:sharecaar_testcases.SignupDataDrivenTesting@229f66ed]" started-at="2024-03-27T12:39:45 IST" name="CloseApplication" finished-at="2024-03-27T12:39:45 IST" duration-ms="109" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CloseApplication -->
-      </class> <!-- sharecaar_testcases.Search_TestCase -->
+      </class> <!-- sharecaar_testcases.SignupDataDrivenTesting -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

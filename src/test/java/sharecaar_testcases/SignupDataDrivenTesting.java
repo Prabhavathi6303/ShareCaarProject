@@ -11,9 +11,8 @@ import sharecaar_utilities.XLUtils;
 
 public class SignupDataDrivenTesting extends Signup_BaseClass {
 	@Test(dataProvider="ShareCaarSignup")
-	public void SignupTest1(String FName, String LName, String Email, String Contact, String Password, String Cpwd, String Status) throws IOException, InterruptedException
+	public void Signup(String FName, String LName, String Email, String Contact, String Password, String Cpwd) throws IOException, InterruptedException
 	{
-		String path=System.getProperty("user.dir")+"\\src\\test\\java\\sharecaar_testdata\\ShareCaarSignup.xlsx";
 		SignupPage S=new SignupPage(driver);
 		Thread.sleep(1000);
 		S.FirstName(FName);
@@ -36,7 +35,7 @@ public class SignupDataDrivenTesting extends Signup_BaseClass {
 		Thread.sleep(1000);
 		S.RadioButton();
 		Log.info("Radiobutton is clicked");
-		Thread.sleep(18000);
+		Thread.sleep(20000);
 		S.SignupBtn();
 		Log.info("Signup button is clicked");
 	
@@ -46,31 +45,13 @@ public class SignupDataDrivenTesting extends Signup_BaseClass {
 		{
 			Assert.assertTrue(true);
 			Log.info("Testcase is Passed");
-			for(int i=1;i<=7;i++) 
-			{
-				String email=XLUtils.getCelldata(path, "Sheet1", i, 0);
-				if(email.equals(Email))
-				{
-					XLUtils.setCellData(path, "Sheet1", i, 2, "Pass");
-					XLUtils.FillGreenColor(path, "Sheet1", i, 2);
-				}
-			}
 			
 		}
 		else 
 		{
 			Log.info("Testcase is Failed");
-			CaptureScreen(driver,"SignupTest1");
+			CaptureScreen(driver,"Signup");
 			Log.info("Screenshot is taken");
-			for(int i=1;i<=7;i++) 
-			{
-				String email=XLUtils.getCelldata(path, "Sheet1", i, 0);
-				if(email.equals(Email))
-				{
-					XLUtils.setCellData(path, "Sheet1", i, 2, "Fail");
-					XLUtils.FillRedColor(path, "Sheet1", i, 2);
-				}
-			}
 			driver.navigate().refresh();
 			Assert.assertTrue(false);
 		}

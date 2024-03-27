@@ -12,7 +12,7 @@ import sharecaar_utilities.XLUtils;
 
 public class LoginDataDrivenTesting extends Login_BaseClass{
 	@Test(dataProvider="SharecaarLogin")
-	public void DataDrivenLoginTest1(String Email, String Password, String Status) throws IOException, InterruptedException
+	public void DataDrivenLoginTest(String Email, String Password, String Status) throws IOException, InterruptedException
 	{
 		String path=System.getProperty("user.dir")+"\\src\\test\\java\\sharecaar_testdata\\SharecaarLogin.xlsx";
 		LoginPage L=new LoginPage(driver);
@@ -46,7 +46,7 @@ public class LoginDataDrivenTesting extends Login_BaseClass{
 		else 
 		{
 			Log.info("Testcase is Failed");
-			CaptureScreen(driver,"DataDrivenLoginTest1");
+			CaptureScreen(driver,"DataDrivenLoginTest");
 			Log.info("Screenshot is taken");
 			for(int i=1;i<=3;i++) 
 			{

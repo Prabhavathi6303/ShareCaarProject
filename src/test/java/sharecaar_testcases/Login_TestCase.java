@@ -12,7 +12,7 @@ import sharecaar_pageobjects.LoginPage;
 
 public class Login_TestCase extends Login_BaseClass{
 	@Test(dataProvider="dp")
-	public void LoginTest1(String Email, String Password) throws IOException, InterruptedException
+	public void LoginTest(String Email, String Password) throws IOException, InterruptedException
 	{
 		LoginPage L=new LoginPage(driver);
 		Thread.sleep(2000);
